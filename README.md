@@ -19,3 +19,6 @@ The only authorized distribution of this work is through [theburden.org](https:/
 
 ---
 
+## FAQ
+
+Why is the website hosted on Kubernetes? - Tons of cool features are coming, won't spoil the surprise.
