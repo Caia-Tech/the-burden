@@ -8,12 +8,11 @@ This repository contains supporting materials for "The Burden: Love, Logic, and 
 
 © 2025 Marvin Tutt. All rights reserved.
 
-This work is free for personal reading and sharing. For institutional, commercial, educational, or training use, please contact: owner@caiatech.com
+This work is in progress. It is free for personal reading and sharing. For institutional, commercial, educational, or training use, please contact: owner@caiatech.com
 
 ## Official Distribution
 
-The only authorized distribution of this work is through [theburden.org](https://theburden.org). Copies obtained from other sources may be incomplete, modified, or unauthorized.
+The only authorized distribution of this work is through [theburden.org](https://theburden.org). Copies obtained from other sources may be incomplete, modified, unauthorized, or contain scam links.
 
 ---
 
-*For those who debug hearts like code.*
