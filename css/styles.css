@@ -898,6 +898,22 @@ html[data-theme="light"] .reading-controls {
   color: var(--steel);
 }
 
+.footer-links {
+  margin: var(--spacing-md) 0;
+  font-size: 0.9rem;
+}
+
+.footer-links a {
+  color: var(--healing);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: var(--pearl);
+  text-decoration: underline;
+}
+
 
 /* Downloads Section */
 .downloads {
