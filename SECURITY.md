@@ -2,9 +2,9 @@
 
 ## Official Distribution
 
-The only official source for "The Burden" is:
-- Website: https://theburden.org
-- Repository: https://github.com/[your-username]/the-burden
+The only official source for "The Burden" is: **https://theburden.org**
+
+This repository contains only supporting materials. The full book and website are available exclusively at the official domain.
 
 Please verify you are accessing content from official sources only. Unauthorized copies may contain modifications or malicious content.
 

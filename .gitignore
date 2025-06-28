@@ -32,3 +32,17 @@ venv/
 *.tmp
 *.temp
 .~*
+
+# Website files (to prevent cloning)
+index.html
+introduction.html
+chapters/
+css/
+js/
+downloads/
+assets/
+manifest.json
+test-light-mode.html
+
+# Book content
+markdown/
