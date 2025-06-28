@@ -30,10 +30,12 @@ The following licenses are available for institutional use:
 
 ## Scope of Licenses
 
-- **Academic/Nonprofit**: For educational institutions, research organizations, and registered nonprofits. Covers classroom instruction, research projects, internal training, and academic presentations.
-- **Commercial/Corporate**: For for-profit organizations. Covers internal training, employee development, and professional development programs.
-- **Government/Agency**: For federal, state, and local government agencies. Covers agency-wide training programs and official curricula.
-- **Enterprise/Unlimited**: Unlimited organizational use across all divisions and subsidiaries. Includes perpetual use rights.
+All licenses include access to all future updates, revisions, and new content added to "The Burden" at no additional cost. Once licensed, your organization has perpetual access to all versions.
+
+- **Academic/Nonprofit**: For educational institutions, research organizations, and registered nonprofits. Covers classroom instruction, research projects, internal training, and academic presentations. Includes all updates and future chapters.
+- **Commercial/Corporate**: For for-profit organizations. Covers internal training, employee development, and professional development programs. Includes all updates and future chapters.
+- **Government/Agency**: For federal, state, and local government agencies. Covers agency-wide training programs and official curricula. Includes all updates and future chapters.
+- **Enterprise/Unlimited**: Unlimited organizational use across all divisions and subsidiaries. Includes perpetual use rights and all future updates and versions.
 
 ## Contact
 
