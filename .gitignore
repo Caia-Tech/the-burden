@@ -1,0 +1,34 @@
+# Local development
+.DS_Store
+*.log
+node_modules/
+
+# Kubernetes configs
+k8s/secrets.yaml
+k8s/prod-values.yaml
+
+# Build artifacts
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
+.~*
