@@ -1,0 +1,8 @@
+# Redirect www to non-www
+https://www.theburden.org/* https://theburden.org/:splat 301
+
+# Redirect common typos/alternatives
+/index /
+/home /
+/book /
+/read /introduction.html

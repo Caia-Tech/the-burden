@@ -33,16 +33,14 @@ venv/
 *.temp
 .~*
 
-# Website files (to prevent cloning)
-index.html
-introduction.html
-chapters/
-css/
-js/
-downloads/
-assets/
-manifest.json
+# Development files
 test-light-mode.html
 
-# Book content
+# Book source content  
 markdown/
+
+# Deployment files not needed for Cloudflare Pages
+k8s/
+Dockerfile
+nginx.conf
+deploy.sh
