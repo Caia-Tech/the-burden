@@ -898,19 +898,6 @@ html[data-theme="light"] .reading-controls {
   color: var(--steel);
 }
 
-.tech-flex {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  color: var(--steel);
-  opacity: 0.5;
-  margin-top: var(--spacing-sm);
-  letter-spacing: 0.02em;
-  transition: opacity 0.2s ease;
-}
-
-.site-footer:hover .tech-flex {
-  opacity: 0.8;
-}
 
 /* Downloads Section */
 .downloads {

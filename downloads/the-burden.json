@@ -143,11 +143,8 @@
   },
   "technical": {
     "infrastructure": {
-      "hosting": "Google Kubernetes Engine",
-      "cdn": "CloudFlare",
-      "analytics": "Privacy-focused, self-hosted",
       "framework": "Static HTML with progressive enhancement",
-      "containerization": "Docker containers with horizontal autoscaling"
+      "analytics": "Privacy-focused"
     },
     "performance": {
       "lighthouse_score": 100,
