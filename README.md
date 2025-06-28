@@ -9,7 +9,7 @@ This repository contains supporting materials for "The Burden: Love, Logic, and 
 © 2025 Marvin Tutt. All rights reserved.
 
 This work is in progress. It is free for personal reading and sharing. For institutional, commercial, educational, or training use, please contact: owner@caiatech.com
-There will be 7-10 parts total, most are planned.
+There will be 11 parts total, most are planned.
 This version of part 1 is a draft, I'm approaching this book like a software project. Testing and Iterating, and documenting real-world usage.
 
 
