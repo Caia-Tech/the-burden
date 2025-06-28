@@ -18,7 +18,3 @@ This version of part 1 is a draft, I'm approaching this book like a software pro
 The only authorized distribution of this work is through [theburden.org](https://theburden.org). Copies obtained from other sources may be incomplete, modified, unauthorized, or contain scam links.
 
 ---
-
-## FAQ
-
-Why is the website hosted on Kubernetes? - Tons of cool features are coming, won't spoil the surprise.
