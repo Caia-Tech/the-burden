@@ -19,67 +19,54 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Theme management
 function initializeTheme() {
-    // Theme states: system, light, dark
-    let themeMode = localStorage.getItem('themeMode') || 'system';
+    // Get saved theme or use system preference
+    let currentTheme = localStorage.getItem('theme');
     
-    // Apply initial theme
-    applyTheme(themeMode);
+    if (!currentTheme) {
+        // Default to system preference for new users
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        currentTheme = prefersDark ? 'dark' : 'light';
+    }
+    
+    // Apply theme
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    document.body.setAttribute('data-theme', currentTheme);
     
     const themeToggle = document.querySelector('.theme-toggle');
     if (themeToggle) {
         themeToggle.addEventListener('click', () => {
-            themeMode = toggleTheme(themeMode);
-            updateThemeIcon(themeMode);
+            currentTheme = toggleTheme(currentTheme);
+            updateThemeIcon(currentTheme);
         });
-        updateThemeIcon(themeMode);
-    }
-    
-    // Listen for system theme changes
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-        if (localStorage.getItem('themeMode') === 'system') {
-            applyTheme('system');
-        }
-    });
-}
-
-function toggleTheme(currentMode) {
-    // Cycle through: system → light → dark → system
-    const modes = ['system', 'light', 'dark'];
-    const currentIndex = modes.indexOf(currentMode);
-    const newMode = modes[(currentIndex + 1) % modes.length];
-    
-    localStorage.setItem('themeMode', newMode);
-    applyTheme(newMode);
-    
-    return newMode;
-}
-
-function applyTheme(mode) {
-    if (mode === 'system') {
-        // Use system preference
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const theme = prefersDark ? 'dark' : 'light';
-        document.documentElement.setAttribute('data-theme', theme);
-        document.body.setAttribute('data-theme', theme);
-    } else {
-        // Use explicit theme
-        document.documentElement.setAttribute('data-theme', mode);
-        document.body.setAttribute('data-theme', mode);
+        updateThemeIcon(currentTheme);
     }
 }
 
-function updateThemeIcon(mode) {
+function toggleTheme(currentTheme) {
+    // Simple toggle: light ↔ dark
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    
+    // Save theme preference
+    localStorage.setItem('theme', newTheme);
+    
+    // Apply theme
+    document.documentElement.setAttribute('data-theme', newTheme);
+    document.body.setAttribute('data-theme', newTheme);
+    
+    return newTheme;
+}
+
+function updateThemeIcon(theme) {
     const themeIcon = document.querySelector('.theme-icon');
     if (!themeIcon) return;
     
     const icons = {
-        'system': '🖥️',
         'light': '☀️',
         'dark': '🌙'
     };
     
-    themeIcon.textContent = icons[mode] || '🖥️';
-    themeIcon.setAttribute('title', `Theme: ${mode}`);
+    themeIcon.textContent = icons[theme] || '🌙';
+    themeIcon.setAttribute('title', `Theme: ${theme}`);
 }
 
 // Navigation

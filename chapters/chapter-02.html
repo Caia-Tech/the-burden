@@ -35,12 +35,9 @@
     <!-- Prevent theme flash -->
     <script>
         (function() {
-            const themeMode = localStorage.getItem('themeMode') || 'system';
-            let theme;
-            if (themeMode === 'system') {
+            let theme = localStorage.getItem('theme');
+            if (!theme) {
                 theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-            } else {
-                theme = themeMode;
             }
             document.documentElement.setAttribute('data-theme', theme);
         })();

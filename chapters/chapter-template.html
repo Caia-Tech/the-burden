@@ -32,6 +32,16 @@
     
     <title>Chapter Title - The Burden</title>
     <link rel="stylesheet" href="../css/styles.css">
+    <!-- Prevent theme flash -->
+    <script>
+        (function() {
+            let theme = localStorage.getItem('theme');
+            if (!theme) {
+                theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            }
+            document.documentElement.setAttribute('data-theme', theme);
+        })();
+    </script>
 </head>
 <body>
     <!-- Progress Bar -->
