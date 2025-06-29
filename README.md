@@ -4,6 +4,19 @@
 
 This repository contains supporting materials for "The Burden: Love, Logic, and the Lonely Space Between" by Marvin Tutt.
 
+## Notice: No Social Media Presence
+
+For security and legal reasons, I maintain no social media accounts on any platform, including:
+- LinkedIn
+- Twitter/X  
+- Facebook
+- Instagram
+- Any other social networks
+
+Any profiles claiming to be Marvin Tutt or representing The Burden project are unauthorized and potentially malicious. Report impersonation to the platforms immediately.
+
+Official channels only: GitHub and email (owner@caiatech.com).
+
 ## Important Notice: Repository Under Active Surveillance
 
 **Update: June 28, 2025**
