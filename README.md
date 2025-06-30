@@ -4,6 +4,21 @@
 
 This repository contains supporting materials for "The Burden: Love, Logic, and the Lonely Space Between" by Marvin Tutt.
 
+## Licensing Notice Jun 30, 2025
+
+Analytics indicate substantial organizational access to The Burden from various professional networks.
+
+Per the published licensing terms:
+- Organizational/Enterprise use: $10,000
+- Legal/Professional services: $2,500-$5,000
+- Personal use: Free
+
+These prices are minimal by design while satisfying most compliance requirements.
+
+For discounted or special licensing, contact: owner@caiatech.com
+
+This serves as a 30-day notice for unlicensed organizational use.
+
 ## Notice: No Social Media Presence
 
 For security and legal reasons, I maintain no social media accounts on any platform, including:
