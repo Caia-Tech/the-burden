@@ -4,6 +4,19 @@
 
 This repository contains supporting materials for "The Burden: Love, Logic, and the Lonely Space Between" by Marvin Tutt.
 
+## Notice: No Social Media Presence
+
+For security and legal reasons, I maintain no social media accounts on any platform, including:
+- LinkedIn
+- Twitter/X  
+- Facebook
+- Instagram
+- Any other social networks
+
+Any profiles claiming to be Marvin Tutt or representing The Burden project are unauthorized and potentially malicious. Report impersonation to the platforms immediately.
+
+Official channels only: GitHub and email (owner@caiatech.com).
+
 ## Important Notice: Repository Under Active Surveillance
 
 **Update: June 28, 2025**
@@ -101,3 +114,23 @@ This version of part 1 is a draft, I'm approaching this book like a software pro
 The only authorized distribution of this work is through [theburden.org](https://theburden.org). Copies obtained from other sources may be incomplete, modified, unauthorized, or contain scam links.
 
 ---
+
+## Continuity Protocols
+
+This repository maintains automated continuity systems to ensure evidence preservation. These systems operate independently and are designed to maintain transparency and documentary integrity.
+
+### Active Protections:
+- Automated backup protocols across multiple platforms
+- Repository health monitoring and alerts
+- Time-delayed release mechanisms
+- Distributed archive synchronization
+- Multi-party evidence preservation network established
+- Evidence preservation network includes multiple independent custodians
+- Access logs indicate heightened monitoring; all activity recorded
+
+### Notice:
+All evidence is preserved through industry-standard continuity measures. Any interference with these systems may constitute obstruction of justice in federal proceedings.
+
+The Burden Method™ and related documentation systems are protected intellectual property. Licensing available for qualified institutions.
+
+*Continuity systems activated June 29, 2025.*
