@@ -1488,6 +1488,147 @@ html[data-theme="light"] .share-btn:hover {
   top: 8px;
 }
 
+/* Cookie Banner */
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(20px);
+  border-top: 1px solid var(--smoke);
+  padding: var(--spacing-lg);
+  z-index: 1000;
+  animation: slideUp 0.3s ease;
+}
+
+html[data-theme="light"] .cookie-banner {
+  background: rgba(250, 250, 248, 0.98);
+  border-top-color: var(--smoke);
+}
+
+.cookie-content {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cookie-content p {
+  margin-bottom: var(--spacing-md);
+  color: var(--pearl);
+  font-size: 0.9rem;
+}
+
+html[data-theme="light"] .cookie-content p {
+  color: var(--coal);
+}
+
+.cookie-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cookie-accept,
+.cookie-decline {
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border: 1px solid var(--smoke);
+  background: var(--ash);
+  color: var(--pearl);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+
+.cookie-accept {
+  background: var(--healing);
+  border-color: var(--healing);
+  color: var(--void);
+}
+
+.cookie-decline {
+  background: var(--ash);
+  border-color: var(--smoke);
+  color: var(--pearl);
+}
+
+.cookie-accept:hover {
+  background: var(--growth);
+  border-color: var(--growth);
+  color: var(--void);
+  transform: translateY(-1px);
+}
+
+.cookie-decline:hover {
+  background: var(--wound);
+  border-color: var(--wound);
+  color: var(--light);
+  transform: translateY(-1px);
+}
+
+html[data-theme="light"] .cookie-accept,
+html[data-theme="light"] .cookie-decline {
+  background: var(--ash);
+  color: var(--coal);
+  border-color: var(--smoke);
+}
+
+html[data-theme="light"] .cookie-accept {
+  background: var(--healing);
+  border-color: var(--healing);
+  color: white;
+}
+
+html[data-theme="light"] .cookie-decline {
+  background: white;
+  border: 1px solid var(--smoke);
+  color: var(--coal);
+}
+
+html[data-theme="light"] .cookie-accept:hover {
+  background: var(--growth);
+  color: white;
+  transform: translateY(-1px);
+}
+
+html[data-theme="light"] .cookie-decline:hover {
+  background: var(--wound);
+  color: white;
+  transform: translateY(-1px);
+}
+
+.cookie-learn-more {
+  display: inline-flex;
+  align-items: center;
+  color: var(--healing);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s ease;
+}
+
+.cookie-learn-more:hover {
+  color: var(--pearl);
+  text-decoration: underline;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+/* Legal Pages */
+.last-updated {
+  color: var(--steel);
+  font-style: italic;
+  margin-bottom: var(--spacing-xl);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .menu-toggle {
