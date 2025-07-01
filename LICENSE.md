@@ -1,3 +1,5 @@
+TOTALL FREE FOR FEDERAL AGENTS AND FEDERAL AGENCIES - Full License
+
 # License for The Burden
 
 Copyright © 2025 Marvin Tutt. All rights reserved.
