@@ -1,3 +1,5 @@
+⚠️ SCAM WARNING ⚠️ Multiple fake donation links may be circulated. I have NOT posted any payment methods other than what’s on theburden.org. DO NOT send money to random Cash Apps claiming to be me. Don’t trust any social media accounts that accept money. Protect yourself. Document everything.
+
 # The Burden
 
 **Official Website: [theburden.org](https://theburden.org)**
