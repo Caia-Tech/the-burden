@@ -4,7 +4,20 @@
 
 This repository contains supporting materials for "The Burden: Love, Logic, and the Lonely Space Between" by Marvin Tutt.
 
+---------------------------------------------------------------
+“The TUTT never sleeps!” ❌
+“I heard he wrote Kubernetes manifest by hand… IN FEDERAL CUSTODY”❌
+“He used an IBN 5100 to conspire with Trump!” ❌
+
+Dad with a laptop ✅
+
+They took my kindness for weakness. Restraint for fear.
+
+https://youtu.be/M-xzMLjyShA?si=ZeR03kPJvV0L0_F-
+---------------------------------------------------------------
+
 ## Licensing Notice - June 30, 2025
+
 
 Analytics indicate substantial organizational access to The Burden from various professional networks.
 
