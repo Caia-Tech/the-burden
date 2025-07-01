@@ -6,7 +6,9 @@ This repository contains supporting materials for "The Burden: Love, Logic, and 
 
 ---------------------------------------------------------------
 “The TUTT never sleeps!” ❌
+
 “I heard he wrote Kubernetes manifest by hand… IN FEDERAL CUSTODY”❌
+
 “He used an IBN 5100 to conspire with Trump!” ❌
 
 Dad with a laptop ✅
