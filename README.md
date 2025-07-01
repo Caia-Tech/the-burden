@@ -1,9 +1,48 @@
+⚠️ SCAM WARNING ⚠️ Multiple fake donation links may be circulated. I have NOT posted any payment methods other than what’s on theburden.org. DO NOT send money to random Cash Apps claiming to be me. Don’t trust any social media accounts that accept money. Protect yourself. Document everything.
+
 # The Burden
 
 **Official Website: [theburden.org](https://theburden.org)**
 
 This repository contains supporting materials for "The Burden: Love, Logic, and the Lonely Space Between" by Marvin Tutt.
 
+---------------------------------------------------------------
+“The TUTT never sleeps!” ❌
+
+“I heard he wrote Kubernetes manifests by hand… IN FEDERAL CUSTODY”❌
+
+“He used an IBN 5100 to conspire with Trump!” ❌
+
+Dad with a laptop ✅
+
+They took my kindness for weakness. Restraint for fear.
+
+https://youtu.be/M-xzMLjyShA?si=ZeR03kPJvV0L0_F-
+---------------------------------------------------------------
+
+## Licensing Notice - June 30, 2025
+
+
+Analytics indicate substantial organizational access to The Burden from various professional networks.
+
+Per the published licensing terms:
+- Organizational/Enterprise use: $10,000  
+- Legal/Professional services: $2,500-$5,000
+- Personal use: Free
+
+These prices are minimal by design while satisfying most compliance requirements.
+
+For discounted or special licensing arrangements, contact: owner@caiatech.com
+
+Payment methods available at: theburden.org
+
+For World Builders is NOT available for distribution or commercial use.
+
+This serves as a 30-day notice regarding unlicensed organizational use detected through analytics.
+
+Stay safe - you may contact me to verify payment links. Due diligence is required to ensure you are not sending money to bad actors.
+
+Continued organizational access without proper licensing constitutes copyright infringement.
 ## Notice: No Social Media Presence
 
 For security and legal reasons, I maintain no social media accounts on any platform, including:
