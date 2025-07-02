@@ -1,3 +1,5 @@
+Plaintiff cannot access courts while homeless with no phone
+
 UPDATE July 2, 2025: Due to ongoing garnishments from 
 defendants, plaintiff faces housing loss within less than 24 hours. 
 Documentation continues despite circumstances.
