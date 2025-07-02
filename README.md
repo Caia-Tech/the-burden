@@ -1,4 +1,15 @@
-⚠️ SCAM WARNING ⚠️ Multiple fake donation links may be circulated. I have NOT posted any payment methods other than what’s on theburden.org. DO NOT send money to random Cash Apps claiming to be me. Don’t trust any social media accounts that accept money. Protect yourself. Document everything.
+⚠️ SCAM WARNING ⚠️ Multiple fake donation links may be circulated. I have NOT posted any payment methods other than what’s on theburden.org. DO NOT send money to random Cash Apps claiming to be me, only the one listed here. Don’t trust any social media accounts that accept money. Protect yourself. Document everything.
+
+Caia Tech is dedicated to protecting the sanctity of federal, state, and local authority.
+All laws will be followed. 
+For reports and requests, please contact owner@caiatech.com
+
+I am in need of support. CashApp $MarvinTutt . Only trust this repo and theburden.org for support links.
+Bitcoin: bc1qt00lg3llv326w96gn4jx7wgv2f46s06ux2p7m9
+https://square.link/u/R1C8SjD3
+https://ko-fi.com/caiatech
+
+If you are an entity in need of special pricing, contact owner@caiatech.com
 
 # The Burden
 
