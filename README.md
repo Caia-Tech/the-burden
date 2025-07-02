@@ -1,3 +1,8 @@
+UPDATE July 2, 2025: Due to ongoing garnishments from 
+defendants, plaintiff faces housing loss within less than 24 hours. 
+Documentation continues despite circumstances.
+Support: $MarvinTutt
+
 ⚠️ SCAM WARNING ⚠️ Multiple fake donation links may be circulated. I have NOT posted any payment methods other than what’s on theburden.org. DO NOT send money to random Cash Apps claiming to be me, only the one listed here. Don’t trust any social media accounts that accept money. Protect yourself. Document everything.
 
 Caia Tech is dedicated to protecting the sanctity of federal, state, and local authority.
