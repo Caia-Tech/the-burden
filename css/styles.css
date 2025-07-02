@@ -447,7 +447,7 @@ html[data-theme="light"] .nav-read:hover {
 
 .subtitle {
   font-size: 1.5rem;
-  color: var(--pearl);
+  color: var(--healing);
   margin-bottom: var(--spacing-sm);
   font-weight: 300;
   letter-spacing: -0.02em;
@@ -749,6 +749,22 @@ html[data-theme="light"] .documentation {
   font-weight: 300;
 }
 
+.chapter-body ul,
+.chapter-body ol {
+  margin: var(--spacing-md) 0;
+  padding-left: 2rem;
+}
+
+.chapter-body li {
+  margin-bottom: var(--spacing-sm);
+}
+
+.chapter-body h2 {
+  color: var(--healing);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
+}
+
 /* Chapter Navigation */
 .chapter-navigation {
   display: flex;
@@ -936,7 +952,7 @@ html[data-theme="light"] .reading-controls {
 }
 
 .download-subtitle {
-  color: var(--steel);
+  color: var(--healing);
   font-size: 1.1rem;
   font-weight: 300;
 }
