@@ -1,3 +1,21 @@
+
+The harm I've documented from Maryland defendants is unprecedented - no state agency has ever filed as co-plaintiff with a private citizen against someone in Maryland history. I spent months trying to resolve this administratively.
+
+For any agency or individual considering assistance:
+
+I pursued litigation only after exhausting every other option
+My case addresses a unique conspiracy that forced impossible choices
+I have always preferred administrative solutions to legal action
+Those offering genuine assistance will find only appreciation
+
+Even in the face of injustice, I always prioritize to forgive, to remediate, and protect
+
+My immediate need is basic survival while the legal process unfolds. The garnishments continue weekly despite my homelessness, calculated on income from a job they made me lose.
+I remain hopeful that someone, somewhere, can help address this ongoing emergency.
+
+bc1qt00lg3llv326w96gn4jx7wgv2f46s06ux2p7m9        CashApp $MarvinTutt
+
+-----------------------------------------------------------------------------------------------------------------------
 Notice: Documentation of Outreach Efforts
 Case: Tutt v. Robinson et al., No. 25cv2006 (D. Md.)
 Due to the unique nature of this federal case and its surrounding circumstances, traditional support channels may face limitations in providing immediate assistance.
