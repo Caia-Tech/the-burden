@@ -1,8 +1,13 @@
 July 3, 2025 Translation Guide:
+
 "This is frivolous" = "I didn't read it" 
+
 "Sounds crazy" = "I don't understand it" 
+
 "No way this is real" = "This exceeds my worldview" 
+
 "Get help" = "Stop making me think"
+
 “God will always help you” = “WE sure as hell won’t!”
 
 
