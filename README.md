@@ -1,3 +1,29 @@
+PART 2 IS COMPLETE BUT I WILL NOT BE ABLE TO POST IT TODAY DUE TO ONGOING COMPLICATIONS
+
+
+planned commit
+July 3rd prediction- An Unofficial Official Timeline
+
+The Drunk Official Timeline
+July 4th, 3 PM: "Happy America Day!"
+July 4th, 6 PM: "You know what? That Marvin guy... opens laptop"
+July 4th, 8 PM: "This is WRONG. I'm gonna... I'm gonna DO something!"
+July 4th, 9 PM: Accidentally hits “Send Bitcoin”
+July 5th, 9 AM: "What did I... oh god... well, can't undo it now..."
+
+*A work of speculative fiction about clarity, pattern recognition, 
+and what might happen when truth meets tequila*
+
+Will Tutt get support from a drunk Official? Will this be the Official timeline?
+
+(This is satire. No officials were extorted in the making of this commit.)
+
+Through all the losses, there are some things I must refuse to give up.
+
+Historical perspectives on pattern recognition and the burden of truth. 
+© 2025 Marvin Tutt. All rights reserved.
+
+
 July 3, 2025 Translation Guide:
 
 "This is frivolous" = "I didn't read it" 
