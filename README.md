@@ -1,3 +1,6 @@
+update -I'm back America, posting soon. I found a way. Will try to avoid any posts on federal holiday
+
+
 PART 2 IS COMPLETE BUT I WILL NOT BE ABLE TO POST IT TODAY DUE TO ONGOING COMPLICATIONS
 
 
