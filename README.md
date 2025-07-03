@@ -5,11 +5,19 @@ planned commit
 July 3rd prediction- An Unofficial Official Timeline
 
 The Drunk Official Timeline
+
 July 4th, 3 PM: "Happy America Day!"
+
 July 4th, 6 PM: "You know what? That Marvin guy... opens laptop"
+
 July 4th, 8 PM: "This is WRONG. I'm gonna... I'm gonna DO something!"
+
 July 4th, 9 PM: Accidentally hits “Send Bitcoin”
+
 July 5th, 9 AM: "What did I... oh god... well, can't undo it now..."
+
+
+IF I GET ANY DONATION, I MAY NOT BE ABLE TO ACCESS RIGHT AWAY
 
 *A work of speculative fiction about clarity, pattern recognition, 
 and what might happen when truth meets tequila*
