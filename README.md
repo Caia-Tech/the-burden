@@ -3,12 +3,15 @@ The harm I've documented from Maryland defendants is unprecedented - no state ag
 
 For any agency or individual considering assistance:
 
-I pursued litigation only after exhausting every other option
-My case addresses a unique conspiracy that forced impossible choices
-I have always preferred administrative solutions to legal action
-Those offering genuine assistance will find only appreciation
+I pursued litigation only after exhausting every other option.
 
-Even in the face of injustice, I always prioritize to forgive, to remediate, and protect
+My case addresses a unique conspiracy that forced impossible choices.
+
+I have always preferred administrative solutions to legal action.
+
+Those offering genuine assistance will find only appreciation.
+
+Even in the face of injustice, I always prioritize to forgive, to remediate, and protect.
 
 My immediate need is basic survival while the legal process unfolds. The garnishments continue weekly despite my homelessness, calculated on income from a job they made me lose.
 I remain hopeful that someone, somewhere, can help address this ongoing emergency.
