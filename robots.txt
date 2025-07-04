@@ -1,5 +1,6 @@
 # Robots.txt for The Burden
 # Security-focused configuration
+# Last updated: July 2025
 
 # Allow legitimate crawlers
 User-agent: *

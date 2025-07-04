@@ -1,4 +1,5 @@
 # Security headers for all pages
+# Last updated: July 2025 - Book completion
 /*
   # Strict Content Security Policy
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'

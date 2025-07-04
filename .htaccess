@@ -1,5 +1,6 @@
 # Security Configuration for Apache Servers
 # This file provides defense-in-depth security
+# Updated: July 2025 - Complete book release
 
 # Disable directory browsing
 Options -Indexes
