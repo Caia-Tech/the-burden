@@ -1,55 +1,29 @@
-# Local development
-.DS_Store
-*.log
-node_modules/
+# PDFs and sensitive documents
+*.pdf
+pdf_text/
+read_pdfs.py
 
-# Kubernetes configs
-k8s/secrets.yaml
-k8s/prod-values.yaml
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
 
 # Build artifacts
+node_modules/
 dist/
 build/
-
-# Environment files
-.env
-.env.local
-
-# IDE
-.vscode/
-.idea/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
-env/
-venv/
-.venv/
 
 # Temporary files
 *.tmp
 *.temp
-.~*
-*.bak
-*.swp
+*.log
 
-# Development files
-test-light-mode.html
-generate_*.py
-add_*.py
-
-# Draft content
-part2-draft/
-part2.txt
-part2-*.txt
-
-# Book source content  
-markdown/
-
-# Deployment files not needed for Cloudflare Pages
-k8s/
-Dockerfile
-nginx.conf
-deploy.sh
+# Local environment
+.env
+.env.local
