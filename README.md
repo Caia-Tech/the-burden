@@ -2,6 +2,18 @@
 
 **A book about pattern recognition, systems thinking, and navigating life's dichotomies.**
 
+ This book was created to help the reader with all types of systems including
+ 
+ -Family
+
+ -Social
+
+ -Relationship
+
+ -Societal
+
+ -And More
+
 **Official Website:** [theburden.org](https://theburden.org)
 
 ## About
@@ -27,9 +39,12 @@ This work will always be free for those who need it. For those who find value an
 
 The only authorized distribution is through [theburden.org](https://theburden.org). 
 
-## Case Documentation
 
-For those following the federal case (Tutt v. Robinson et al., No. 25cv2006), documentation of the events that inspired this work remains available in the commit history. The work stands on its own merit.
+## Legal Compliance
+
+This project is committed to full compliance with all applicable federal, state, and local laws. 
+
+For any legal matters, reports, or requests, please contact: owner@caiatech.com
 
 ## License
 
@@ -40,3 +55,4 @@ See [LICENSE.md](LICENSE.md) for details.
 ---
 
 *"Your painful reality is the price of admission to authentic life."*
+
