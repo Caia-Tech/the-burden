@@ -32,9 +32,18 @@ venv/
 *.tmp
 *.temp
 .~*
+*.bak
+*.swp
 
 # Development files
 test-light-mode.html
+generate_*.py
+add_*.py
+
+# Draft content
+part2-draft/
+part2.txt
+part2-*.txt
 
 # Book source content  
 markdown/

@@ -1,0 +1,37 @@
+# Robots.txt for The Burden
+# Security-focused configuration
+
+# Allow legitimate crawlers
+User-agent: *
+Allow: /
+Disallow: /.git/
+Disallow: /.gitignore
+Disallow: /_headers
+Disallow: /.htaccess
+Disallow: /add_security_meta.py
+Disallow: /generate_part2_chapters.py
+Disallow: /generate_complete_downloads.py
+Disallow: /*.bak
+Disallow: /*.log
+Disallow: /*.sql
+Disallow: /part2*.txt
+Disallow: /SECURITY.md
+
+# Block known bad bots
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location (when you create one)
+# Sitemap: https://theburden.org/sitemap.xml
+
+# Crawl delay for politeness
+Crawl-delay: 1

@@ -1,0 +1,16 @@
+{
+  "name": "The Burden: Love, Logic, and the Lonely Space Between",
+  "short_name": "The Burden",
+  "description": "A book for those who debug hearts like code and can't stop trying to understand why",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+# Security headers for all pages
+/*
+  # Strict Content Security Policy
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  
+  # Prevent clickjacking
+  X-Frame-Options: DENY
+  
+  # Prevent MIME type sniffing
+  X-Content-Type-Options: nosniff
+  
+  # Enable XSS protection
+  X-XSS-Protection: 1; mode=block
+  
+  # Referrer policy for privacy
+  Referrer-Policy: strict-origin-when-cross-origin
+  
+  # Permissions policy
+  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+  
+  # HSTS (if using HTTPS)
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  
+  # Cache static assets
+  Cache-Control: public, max-age=3600
+
+# Specific headers for HTML files
+/*.html
+  Cache-Control: no-cache, must-revalidate
+  
+# Block access to sensitive files
+/.git/*
+  X-Robots-Tag: noindex
+  
+/.*
+  X-Robots-Tag: noindex
