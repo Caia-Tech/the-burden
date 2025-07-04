@@ -3,16 +3,6 @@
 **A book about pattern recognition, systems thinking, and navigating life's dichotomies.**
 
  This book was created to help the reader with all types of systems including
- 
- -Family
-
- -Social
-
- -Relationship
-
- -Societal
-
- -And More
 
 **Official Website:** [theburden.org](https://theburden.org)
 
@@ -53,6 +43,3 @@ For any legal matters, reports, or requests, please contact: owner@caiatech.com
 See [LICENSE.md](LICENSE.md) for details.
 
 ---
-
-*"Your painful reality is the price of admission to authentic life."*
-
