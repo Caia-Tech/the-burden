@@ -2,7 +2,7 @@
 
 **A book about pattern recognition, systems thinking, and navigating life's dichotomies.**
 
- This book was created to help the reader with all types of systems including
+ This book was created to help the reader with all types of systems 
 
 **Official Website:** [theburden.org](https://theburden.org)
 
