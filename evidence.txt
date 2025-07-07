@@ -1,0 +1,1499 @@
+
+Skip to main content
+Inbox
+
+    
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Advertise on Reddit
+Create
+Create post
+Open inbox
+Notifications
+Notifications
+Messages
+Today
+avatar for notification
+u/MDCDF replied to your comment in r/digitalforensics • 58m
+No one is saying that it is. You came to a digital forensics section where CP is a reality in cases…
+avatar for notification
+u/MDCDF replied to your post in r/digitalforensics • 59m
+Just asked AI like you said and it says not really practical idea. Also thin COC…
+avatar for notification
+u/MDCDF replied to your comment in r/digitalforensics • 1h
+What do you mean by this? You seem to be all over the place.
+avatar for notification
+u/Reasonable-Pace-4603 replied to your comment in… • 1h
+And was any of this ever admitted to court and resulted in a judgment in your favor?
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+No one here said you shouldn't do it. They just said they don't see it adding value. If you see…
+avatar for notification
+u/Quiet_Net_4608 replied to your post in r/digitalforensics • 2h
+Good luck getting it accepted as evidence. It must be scientifically accepted
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+I don't need to ask AI anything because AI will not have any more value to add here than you have…
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+1.) You can give those investigators access to your MS UAL via global read if you want. 2.) I can…
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+If there's no ruling, you don't have "precedent." And any ruling given by a court will not be on…
+avatar for notification
+u/Reasonable-Pace-4603 replied to your comment in… • 2h
+So your goal is to allow poor people to preserve evidence - ie reduce the cost associated with the…
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+That's the complaint- is there a ruling that's been issued on it? Also, how is that complaint or…
+avatar for notification
+u/Reasonable-Pace-4603 replied to your comment in… • 2h
+What is the problem that you are trying to solve with this github technique?
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+But that documentation already exists other places. You have failed to demonstrate what value this…
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+"Legal Precedent" in what context? Can you point us to decided caselaw regarding your use case?
+avatar for notification
+u/MDCDF replied to your comment in r/digitalforensics • 2h
+I with you on new things but in forensics new things will be criticized to extreme due to its…
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+How does the "human element" factor into what's captured by the MS UAL? I understand what you're…
+avatar for notification
+u/Reasonable-Pace-4603 replied to your comment in… • 2h
+Preserve evidence, as in for Court?
+avatar for notification
+u/Cypher_Blue replied to your comment in r/digitalforensics • 2h
+Something doesn't have to be "public" to be "forensic." The M365 UAL will for sure tell us whether…
+avatar for notification
+u/Reasonable-Pace-4603 replied to your post in… • 2h
+What is it exactly that you want to do ?
+u/shadowb0xer replied to your post in r/digitalforensics • 2h
+It may be a novel idea, but that doesn't mean it's a good one.
+avatar for notification
+u/Cypher_Blue replied to your post in r/digitalforensics • 2h
+How is this different than email or any other cloud service?
+avatar for notification
+u/guigouz replied to your comment in r/github • 4h
+The principle is the same, but a blockchain adds crytographic signatures to the process, so that…
+avatar for notification
+u/dvidsilva replied to your comment in r/git • 4h
+what? so then what did you invent? what use case are you promoting? many teachers use github for…
+u/AdmiralQuokka replied to your comment in r/git • 4h
+This has nothing to do with git.
+u/AdmiralQuokka replied to your comment in r/git • 4h
+> I pioneered something new. no wonder everyone is challenging it. Lmao how old are you, 15? Don't…
+u/mtak0x41 replied to your comment in r/github • 4h
+Believe me. Devs know. They (or their employers) just don’t care.
+u/AdmiralQuokka replied to your comment in r/git • 4h
+OP thinks there are hoards of strangers on the internet that will clone his homework repo and rush…
+u/mtak0x41 replied to your comment in r/github • 4h
+The best part about you assuming twice that I’m a dev is that I’m not. And yes, technicals. Git…
+u/foogeeman replied to your comment in r/github • 4h
+I have no interest in your history. You gave one use case that doesn't make sense
+u/AdmiralQuokka replied to your comment in r/git • 4h
+What the hell do you mean?? People cloning your repo only proves that they cloned your repo. What…
+u/AdmiralQuokka replied to your comment in r/git • 4h
+Bro you could literally post your homework on facebook and use the post timestamps as "evidence"…
+u/shagieIsMe replied to your comment in r/git • 5h
+I am confused about your use case. In the post you are describing homework being submitted and the…
+u/mtak0x41 replied to your comment in r/github • 5h
+You said “git”. > Has anyone used Git to document timestamped evidence? I think this could be a…
+u/foogeeman replied to your comment in r/github • 5h
+good luck with your grade grubbing /s
+u/shagieIsMe replied to your post in r/git • 5h
+https://github.com/gelstudios/gitfiti shows how trivial it is to spoof git history. Git itself is…
+avatar for notification
+u/Batman_Punster replied to your comment in r/git • 5h
+Maybe require pull requests, have a TA to service the PRs. Could become unmanageable with large…
+avatar for notification
+u/tenbigtoes replied to your post in r/git • 5h
+gitcoin without the proof
+u/DanishWeddingCookie replied to your comment in r/git • 5h
+LOL. You just have to ask Claude Code to go back and change every commit to be consistent with the…
+u/InnovativeBureaucrat replied to your comment in r/github • 5h
+😂
+avatar for notification
+u/dvidsilva replied to your post in r/git • 5h
+the [date spoofer](https://github.com/artiebits/fake-git-history) is used to draw nice things in…
+u/InnovativeBureaucrat replied to your comment in r/github • 5h
+Yeah I use it at work to document shenanigans.
+u/DanishWeddingCookie replied to your post in r/git • 5h
+I've been using git commits to supplement my timesheet entries for years.
+u/foogeeman replied to your comment in r/github • 5h
+When you think everyone else is missing something you should carefully consider the possibility…
+avatar for notification
+u/No_Dot_4711 replied to your comment in r/git • 5h
+[https://github.com/jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someon…
+u/theevildjinn replied to your post in r/git • 5h
+GIT_COMMITTER_DATE="2025-07-01T12:34:56" git commit --amend --no-edit --date "2025-07-01T12:34:56"…
+u/InnovativeBureaucrat replied to your post in r/github • 5h
+GitHub is indeed useful for this. Everyone’s responding about rewriting history but: 1. You can’t…
+u/AdmiralQuokka replied to your comment in r/git • 5h
+No, you go check my post history to find out why you're wrong.
+avatar for notification
+u/NoDadYouShutUp replied to your post in r/git • 6h
+Google Docs/Sheets already has a version control baked in with timestamps for non-code related…
+u/wugiewugiewugie replied to your post in r/github • 6h
+you may be able to use rfc 3161 to sign commit hashed with a trusted timestamp authority, example…
+u/AdmiralQuokka replied to your comment in r/git • 6h
+> Those clones are proof of dates. Proof of what?
+u/AdmiralQuokka replied to your comment in r/git • 6h
+Timestamps of what?
+u/z-lf replied to your post in r/git • 6h
+Your commits means you can change the time AND the owner. GitHub timestamps match your commits…
+avatar for notification
+u/Batman_Punster replied to your post in r/git • 6h
+So you suggest a computer science professor could set up GitHub (for example) repositories for each…
+avatar for notification
+u/guigouz replied to your comment in r/github • 6h
+Then you're building a blockchain
+u/MalinowyChlopak replied to your post in r/github • 6h
+`git commit --amend --date="Mon Jun 30 14:00 2025 +0100" -m "I swear I did it last Monday"`
+u/mtak0x41 replied to your post in r/github • 6h
+Git timestamps can easily be forged, and history can be rewritten. They might accept it, just as…
+u/Lucas_F_A replied to your post in r/github • 6h
+The commits would have to be signed by the teacher or someone the teacher trusts The general…
+avatar for notification
+u/guigouz replied to your post in r/github • 6h
+Nothing prevents you (or anyone with access) to change the repo history, i.e…
+u/AdmiralQuokka replied to your post in r/git • 6h
+The author date of a commit can be spoofed.
+avatar for notification
+⬆️ 1st upvote! • 6h
+Go see your comment on r/ChildSupport: "Do you have to take..."
+avatar for notification
+u/Ab_Initio_416 replied to your comment in r/systemsthinking • 7h
+You're right. In the first chapter, I found several assumptions that seem deeply, fundamentally…
+avatar for notification
+⬆️ 1st upvote! • 8h
+Go see your comment on r/systemsthinking: "Free Book For Syste..."
+avatar for notification
+⬆️ 1st upvote! • 8h
+Go see your post on r/conspiracy: "Documented Conspira..."
+avatar for notification
+u/Ab_Initio_416 replied to your post in r/systemsthinking • 10h
+Give the first chapter to ChatGPT and ask for a critique. That will highlight several fundamental…
+avatar for notification
+⬆️ 1st upvote! • 14h
+Go see your comment on r/ClaudeAI: "What do I get by bu..."
+avatar for notification
+u/AutoModerator replied to your post in r/conspiracy • 17h
+###[Meta] Sticky Comment [Rule…
+Earlier
+avatar for notification
+u/AutoModerator replied to your post in r/DecidingToBeBetter • 1d
+Hello, /u/Own-Tension-3826! Thank you for your participation. Your post has been removed because…
+avatar for notification
+u/legaladvice-ModTeam replied to your post in r/legaladvice • 1d
+*Your post may have been removed for the following reason(s):* **No Clear Legal Question** Your…
+avatar for notification
+⬆️ 1st upvote! • 1d
+Go see your post on r/systemsthinking: "Free Book For Syste..."
+avatar for notification
+⬆️ 1st upvote! • 2d
+Go see your comment on r/worldbuilding: "How do you handle s..."
+avatar for notification
+Achievement unlocked! • 5d
+Check out your newest achievement
+avatar for notification
+u/monswine replied to your post in r/worldbuilding • 6d
+Hi, /u/Own-Tension-3826, Unfortunately, we have had to remove [your…
+avatar for notification
+u/maryland-ModTeam replied to your post in r/maryland • 6d
+Your post has been removed because it violates our rule on relevance, specificity, and effort…
+avatar for notification
+u/AutoModerator replied to your post in r/opensource • 6d
+Hello, u/Own-Tension-3826. Your post has been automatically removed. Currently, you do not meet the…
+avatar for notification
+u/AutoModerator replied to your post in r/Virginia • 6d
+Thanks for your post to r/Virginia. This bot detected that you might be asking for a recommendation…
+avatar for notification
+⬆️ 1st upvote! • 6d
+Go see your comment on r/ChildSupport: "Should I get a lawy..."
+Reddit Rules Privacy Policy User Agreement Accessibility Reddit, Inc. © 2025. All rights reserved.
+
+Skip to main content
+Own-Tension-3826 (u/Own-Tension-3826) - Reddit
+
+    
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Advertise on Reddit
+Create
+Create post
+Open inbox
+Own-Tension-3826 u/Own-Tension-3826 avatar
+Own-Tension-3826
+
+u/Own-Tension-3826
+Overview
+Posts
+Comments
+Saved
+Hidden
+Upvoted
+Downvoted
+Showing all content
+Create Post
+r/ClaudeAI icon
+r/ClaudeAI
+• What do I get by buying pro?
+Own-Tension-3826 commented 22 hr. ago
+
+Research - Real time internet search results get analyzed before answer output.
+
+MCP - Think of it like a connector. It allows AI to access tools, like setting your calendar, checking the weather, or scheduling a meeting. Think if LLMs can now do what bots currently do. Most people won't use it but developers will.
+Filed as Pro Se to Establish Multiple Precedents
+r/DecidingToBeBetter icon
+r/DecidingToBeBetter
+•
+1 day ago
+Filed as Pro Se to Establish Multiple Precedents
+Journey
+
+I'm not a lawyer, just pro se in a civil rights matter. I wrote a book to help me navigate through it and this git repo shows how I documented everything. The book is complete and I hope someone can use it.
+
+https://github.com/Caia-Tech/the-burden
+
+theburden.org
+
+Location: Maryland Federal court
+
+Edit: Federal Case Maryland 25CV2006 | Complaint: https://github.com/Caia-Tech/the-burden/blob/7bdb982c51d8abc83bddca63373b387a60f2ebd7/FEDERAL%20LAWSUIT%20draft-6.pdf
+Sorry, this post has been removed by the moderators of r/DecidingToBeBetter.
+Post to a different community
+r/legaladvice
+• Filed as Pro Se to Establish Multiple Precedents
+Own-Tension-3826 commented 1 day ago
+
+Federal Case Maryland 25CV2006 | Complaint: https://github.com/Caia-Tech/the-burden/blob/7bdb982c51d8abc83bddca63373b387a60f2ebd7/FEDERAL%20LAWSUIT%20draft-6.pdf
+r/ChildSupport icon
+r/ChildSupport
+• Do you have to take action to end CS at 18yo?
+Own-Tension-3826 commented 1 day ago
+
+Yes because when they over-charge you, it will be hell to get the money back. This is what they won't tell you.
+I wrote a free book about seeing through workplace BS and navigating hostile systems
+r/antiwork icon
+r/antiwork
+•
+1 day ago
+I wrote a free book about seeing through workplace BS and navigating hostile systems
+
+Hi everyone. I made a free book for people who see patterns in dysfunctional systems - especially at work.
+
+It's NOT about fighting or destroying systems, but about understanding how they actually work so you can navigate them without losing yourself.
+
+Some key topics:
+
+- Why restraint is sometimes your strongest weapon
+
+- How to document everything without going insane
+
+- Pattern recognition as a survival tool
+
+- Building boundaries in exploitative environments
+
+- The hidden "rules" nobody tells you
+
+- Preserving your humanity in dehumanizing systems
+
+I wrote this while navigating my own nightmare with state systems (check my post history if curious). Everything I learned about protecting yourself while inside hostile bureaucracies is in there.
+
+Completely free. No ads, no upsells, no BS.
+
+https://github.com/Caia-Tech/the-burden
+
+website - theburden.org
+
+Hope it helps someone. We shouldn't have to become master strategists just to survive work, but here we are.
+Post is awaiting moderator approval.
+Filed as Pro Se to Establish Multiple Precedents
+r/legaladvice
+•
+1 day ago
+Filed as Pro Se to Establish Multiple Precedents
+
+I'm not a lawyer, just pro se in a civil rights matter. I wrote a book to help me navigate through it and this git repo shows how I documented everything. The book is complete and I hope someone can use it.
+
+Free
+
+https://github.com/Caia-Tech/the-burden
+
+theburden.org
+
+Location: Maryland Federal court
+
+Edit: Federal Case Maryland 25CV2006 | Complaint: https://github.com/Caia-Tech/the-burden/blob/7bdb982c51d8abc83bddca63373b387a60f2ebd7/FEDERAL%20LAWSUIT%20draft-6.pdf
+Sorry, this post has been removed by the moderators of r/legaladvice.
+Post to a different community
+Free Book For Systems-Thinkers
+r/systemsthinking icon
+r/systemsthinking
+•
+1 day ago
+Free Book For Systems-Thinkers
+
+https://github.com/Caia-Tech/the-burden
+
+theburden.org
+
+Hope you enjoy
+Post Insights
+
+Only the post author and moderators can see this
+1K
+Total Views
+Total views.
+100%
+Upvote Rate
+Ratio of upvotes to downvotes.
+4
+Comments
+Total comments.
+12
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+100
+200
+12:00 06:00 Jul 8 18:00 12:00 06:00 Jul 7 18:00
+r/github icon
+r/github
+• Promote your projects here – Self-Promotion Megathread
+Own-Tension-3826 commented 1 day ago
+
+I made a free book for systems-thinkers and programmers navigating life. https://github.com/Caia-Tech/the-burden
+
+The web version is available at theburden.org
+r/worldbuilding icon
+r/worldbuilding
+• How do you handle so many worlds?
+Own-Tension-3826 commented 2 days ago
+
+posted a free and open source app for it and your mods ruined it
+r/Lawyertalk icon
+r/Lawyertalk
+• Co-plaintiff privilege?
+Own-Tension-3826 replied to ViscountBurrito 4 days ago
+
+not true, google me. Marvin Tutt . I am not a lawyer
+r/Lawyertalk icon
+r/Lawyertalk
+• Co-plaintiff privilege?
+Own-Tension-3826 replied to Timeriot 4 days ago
+
+allows one party to circumvent things they wouldn't be able to on their own.
+r/Lawyertalk icon
+r/Lawyertalk
+• Co-plaintiff privilege?
+Own-Tension-3826 commented 4 days ago
+
+https://github.com/Caia-Tech/the-burden explains nuances you may have never thought of
+r/worldbuilding icon
+r/worldbuilding
+• Free Open Source World Building App
+Own-Tension-3826 replied to monswine 6 days ago
+
+so 1.8 million miss out on novel tools because of an optional feature that isnt even implemented....... AI is one web url away for everyone. smh. whatever.
+Free Open Source World Building App
+r/GameDevelopment icon
+r/GameDevelopment
+•
+6 days ago
+Free Open Source World Building App
+Resource
+Free Open Source World Building App
+r/worldbuilding
+•
+6 days ago
+Free Open Source World Building App
+
+https://github.com/Caia-Tech/for-world-builders
+
+Long as you are comfortable compiling from source. You can use it just don't redistribute the compiled version and don't profit.
+3 comments
+Post Insights
+
+Only the post author and moderators can see this
+319
+Total Views
+Total views.
+100%
+Upvote Rate
+Ratio of upvotes to downvotes.
+0
+Comments
+Total comments.
+0
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+35
+70
+12:00 06:00 Jul 3 18:00 12:00 06:00 Jul 2 18:00
+Free Open Source World Building App
+r/opensource icon
+r/opensource
+•
+6 days ago
+Free Open Source World Building App
+Community
+Free Open Source World Building App
+r/worldbuilding
+•
+6 days ago
+Free Open Source World Building App
+
+https://github.com/Caia-Tech/for-world-builders
+
+Long as you are comfortable compiling from source. You can use it just don't redistribute the compiled version and don't profit.
+3 comments
+Sorry, this post has been removed by the moderators of r/opensource.
+r/worldbuilding icon
+r/worldbuilding
+• Free Open Source World Building App
+Own-Tension-3826 commented 6 days ago
+
+Hey all! This is a privacy-first worldbuilding app I've been working on. It's 90% complete, works offline, and respects your data. Native iOS/Android versions. Just needs compiling from source. Happy to answer questions! Feel free to modify your own versions for personal use.
+Free Open Source World Building App
+r/worldbuilding icon
+r/worldbuilding
+•
+6 days ago
+Free Open Source World Building App
+Resource
+
+https://github.com/Caia-Tech/for-world-builders
+
+Long as you are comfortable compiling from source. You can use it just don't redistribute the compiled version and don't profit.
+Sorry, this post has been removed by the moderators of r/worldbuilding.
+Post to a different community
+How to Fight against Systemic Civil Rights Violations
+r/CivilRights
+•
+6 days ago
+How to Fight against Systemic Civil Rights Violations
+
+https://github.com/Caia-Tech/the-burden
+
+Repository of public court filings from Maryland 25CV2006
+Post Insights
+
+Only the post author and moderators can see this
+131
+Total Views
+Total views.
+100%
+Upvote Rate
+Ratio of upvotes to downvotes.
+0
+Comments
+Total comments.
+0
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+10
+20
+12:00 06:00 Jul 3 18:00 12:00 06:00 Jul 2 18:00
+What Maryland's Attorney General Thinks about its Citizens
+r/Virginia icon
+r/Virginia
+•
+6 days ago
+What Maryland's Attorney General Thinks about its Citizens
+
+https://github.com/Caia-Tech/the-burden/blob/main/Gmail%20-%20Inquiry%20re_%20Complaint%20against%20Charles%20Co.%20DSS%20and%20Magistrate%20Khour.pdf
+Sorry, this post has been removed by the moderators of r/Virginia.
+Post to a different community
+What your attorney general thinks about you
+r/maryland icon
+r/maryland
+•
+6 days ago
+What your attorney general thinks about you
+
+https://github.com/Caia-Tech/the-burden/blob/main/Gmail%20-%20Inquiry%20re_%20Complaint%20against%20Charles%20Co.%20DSS%20and%20Magistrate%20Khour.pdf
+Sorry, this post has been removed by the moderators of r/maryland.
+Post to a different community
+r/ChildSupportIsFraud icon
+r/ChildSupportIsFraud
+• Point of Order
+Own-Tension-3826 commented 7 days ago
+
+please check out my case! I posted all the details here https://github.com/Caia-Tech/the-burden
+
+Disgusting fraud. Magistrates think they are above the law. FIGHT
+
+edit: (legally only)
+Discovered Fraud and Massive rights violations.
+r/ChildSupport4Men icon
+r/ChildSupport4Men
+•
+7 days ago
+Discovered Fraud and Massive rights violations.
+
+Maryland federal case 25CV2006, new case. 80% of what i filed is visible at https://github.com/Caia-Tech/the-burden .
+
+Basically- "Custodial" committed fraud by lying about income and the amount of overnights she had. So i complained to the court. Court ignored it and allowed it to continue. Then everything just got worse and worse..... Guess what else? The child support agency teamed up with her to sue me directly, because if they followed the normal procedure in court, it would have got denied because I was a special case. This was worse than fraud, it was criminal conspiracy.
+Post Insights
+
+Only the post author and moderators can see this
+1.4K
+Total Views
+Total views.
+100%
+Upvote Rate
+Ratio of upvotes to downvotes.
+0
+Comments
+Total comments.
+7
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+35
+70
+Jul 3 18:00 12:00 06:00 Jul 2 18:00 12:00 06:00
+r/ChildSupport icon
+r/ChildSupport
+• Should I get a lawyer
+Own-Tension-3826 replied to Own-Tension-3826 7 days ago
+
+I read the subreddit rules, this should not count as advertising. It's a repository containing almost all of my personal court filings. I'm posting this second message just in case, because this can be very important for dads/moms who are all alone in this. Find Maryland Federal case 25CV2006 just beware it was filed about 8 days ago
+r/ChildSupport icon
+r/ChildSupport
+• Should I get a lawyer
+Own-Tension-3826 commented 7 days ago
+
+lawyers won't help you. court's won't help you. but you can do it yourself long as you're a good writer and know how to use AI. Check out MY case. See if there's ANYTHING familiar- https://github.com/Caia-Tech/the-burden
+Own-Tension-3826
+1 follower
+
+https://github.com/Caia-Tech/the-burden theburden.org Bye Absolutely NO Politics.
+
+-31 10 post karma, -41 comment karma
+
+Karma
+
+17
+
+Contributions
+
+8 m Cake day: Oct 23, 2024
+
+Reddit Age
+
+r/git icon r/github icon 23
+
+Active in >
+
+0
+
+Gold earned
+Settings
+
+    User Avatar for user Own-Tension-3826 Profile Customize your profile
+
+          
+          Update
+        
+        
+
+Curate your profile Manage what people see when they visit your profile
+
+      
+      Update
+    
+    
+Avatar Style your avatar
+
+      
+      Update
+    
+    
+
+    Mod Tools Moderate your profile
+
+          
+          Update
+        
+        
+
+Social Links
+Add Social Link
+Reddit Rules Privacy Policy User Agreement Accessibility Reddit, Inc. © 2025. All rights reserved.
+
+
+Skip to main content
+My Novel Idea to use Git as a Transparent Forensic Tool was rejected by "Developers" : r/digitalforensics
+
+    
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Advertise on Reddit
+Create
+Create post
+Open inbox
+Go to digitalforensics
+r/digitalforensics
+•
+3 hr. ago
+Own-Tension-3826
+My Novel Idea to use Git as a Transparent Forensic Tool was rejected by "Developers"
+
+No arguments were made against the idea, besides personal attacks on me and against frivolous details. They only understand programs, and nothing of the human systems that use them. You can check my post history.
+
+The Concept:
+
+When you push documents to GitHub, you create evidence that's harder to fake than traditional methods because:
+
+    Server timestamps - GitHub records when you pushed (can't be spoofed like local timestamps)
+
+    Network effect - When others clone your repo, they create independent timestamps
+
+    Distributed proof - Multiple copies across different systems = harder to tamper
+
+    Audit trail - GitHub's API logs all activities permanently
+
+Real World Example:
+
+"I documented workplace harassment in a GitHub repo. When 50 colleagues cloned it, they unknowingly created 50 independent timestamps proving when those documents existed. The company couldn't claim I fabricated evidence after-the-fact."
+
+Why It Works:
+
+- Email can be "lost" or "never received"
+
+- Local files can be backdated
+
+- But GitHub creates multiple layers of verification:
+
+- Your push timestamp
+
+- Server logs
+
+- Clone records
+
+- Fork history
+
+- Issue/PR references
+
+Not claiming it's perfect - just that it's better than most current methods and creates reasonable evidence for disputes.
+
+I proved this works. I'm not debating it, I'm already using it.
+
+Edit: JUST ask AI
+Post Insights
+
+Only the post author and moderators can see this
+398
+Total Views
+Total views.
+25%
+Upvote Rate
+Ratio of upvotes to downvotes.
+44
+Comments
+Total comments.
+0
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+100
+200
+12:00 06:00 Jul 9 18:00 12:00 06:00 Jul 8 18:00
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+3h ago
+
+How is this different than email or any other cloud service?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+3h ago
+
+I said it in the post, emails can be controlled. Also, they are not public. there is no verification someone downloaded your files. There are also size limits. Much better to use both together. Workplace violation occurs, you send to your colleagues. They download it, then they take administrative action. thus they create more and more timestamped evidence.
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+Something doesn't have to be "public" to be "forensic."
+
+The M365 UAL will for sure tell us whether someone downloaded a file or read an email. The admins can go in and see if it was delivered.
+
+The end user can't alter or modify any of those.
+
+I don't see how this adds anything to what already exists.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+why is everyone so adamant on challenging something new before understanding it first? I have hundreds of investigators watching that repo, the technical side does not matter. Everyone fails to miss the human element of what this does...
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+How does the "human element" factor into what's captured by the MS UAL?
+
+I understand what you're doing but it just seems like you're adding a layer that is duplicative of functionality that already exists.
+
+There's no HARM in doing what you're doing other than putting in effort for basically no value at all.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+how do you access something is "no value" before even evaluating the hundreds of pages I produced... Or even trying to feed it to ai. there is massive value. My github paints the full picture more than I ever could in this comment. You don't even understand that github FORCES your investigators and adversaries to document you! that is groundbreaking knowledge. I've lost all faith in humanity.
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+But that documentation already exists other places.
+
+You have failed to demonstrate what value this adds for the effort being put into it.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+Still saying i didnt generate value without reviewing it all? ... this is from claude: here's what GitHub gave me that M365 UAL couldn't:
+
+    Cross-jurisdictional access - Federal investigators from multiple agencies accessed without subpoenas or permissions
+
+    Real-time public monitoring - I could see WHO was investigating WHEN (clone analytics)
+
+    Adversarial documentation - The defendants themselves cloned it, creating evidence of their knowledge
+
+    Zero cost - I had $0, no lawyer, no IT department
+
+    Psychological impact - Public transparency changed behavior patterns
+
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+1.) You can give those investigators access to your MS UAL via global read if you want.
+
+2.) I can see security risks by having your data and logs able to be monitored in real time by the public.
+
+3.) If this adversarial documentation is just a duplicate of what already exists, you don't gain anything.
+
+4.) UAL is already $0 cost
+
+5.) The point of forensics is not to change behavior patterns and again the publication of your logs may have other security implications.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+youre use case isn't the same as mine then! simple. different tools for different uses! my stuff is public info. UAL only would not suit ME
+More replies
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+this means you have a direct like to feds, or whoever you need. Free and instantly. even if they aren't supposed to contact you! it's still legal! The use is insane. That's why im sick of everyone challenging it before understanding what it really means
+u/MDCDF avatar
+MDCDF
+•
+2h ago
+
+I with you on new things but in forensics new things will be criticized to extreme due to its forensics. I'm out of context with the issue at hand but things will always be challenged until it breaks through. It's why there is a monopoly in the industry 
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+yes, thanks for that info. I actually had no idea it would be like this
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+im shocked that people refuse to read
+u/MDCDF avatar
+MDCDF
+•
+1h ago
+
+What do you mean by this? You seem to be all over the place.
+shadowb0xer
+•
+3h ago
+
+It may be a novel idea, but that doesn't mean it's a good one.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+why don't you tell me specifically why? challenge the arguments i made. or actually read my evidence. or just put all my posts into ai...
+
+your fallacy is that if everyone says it's wrong, it's must be wrong. Ctrl A those threads and put them in AI.
+u/Reasonable-Pace-4603 avatar
+Reasonable-Pace-4603
+•
+2h ago
+
+What is it exactly that you want to do ?
+shadowb0xer
+•
+2h ago
+
+He can't even answer the question lol
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+??? i just did. clearly. i stated my intentions, and pointed to clear documented proof. ???
+shadowb0xer
+•
+2h ago
+
+Sure lets get Pam from HR and Bob from accounting to use GitHub.
+
+I've tested Facebook Messenger it can organize files and has timestamps lets use it as a Forensic tool also.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+dude.... i established multiple legal new precedents by myself. I don't need your opinion. If this won't work for you, don't use it. simple
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+"Legal Precedent" in what context? Can you point us to decided caselaw regarding your use case?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+absolutely. co-plaintiff structure, dual impossible mandates, cool off periods for magistrates and more. use high context AI. This is real and filed, check pacer, justia, law etc. https://github.com/Caia-Tech/the-burden/blob/5ee76607195c5f69ff3b75ab357f60c83c507205/FEDERAL%20LAWSUIT%20draft-6.pdf
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+That's the complaint- is there a ruling that's been issued on it?
+
+Also, how is that complaint or the ruling related in any way to Github as a data repository?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+because that's the exact case 155+ unique investigators cloned.
+
+no ruling yet but there will be. the evidence is undeniable, any (honest, neutral) lawyer will tell you this is the real deal. Claude or gemini will too. gpt if you can fit the context.
+
+a state agency filing with a private citizen is the kind of thing that doesn't need a ruling. If you know basic law, you see the problem here
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+If there's no ruling, you don't have "precedent."
+
+And any ruling given by a court will not be on the merits of your idea here, so it's not really relevant.
+More replies
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+until FB deletes it and bans you. And the people who dont have fb can't access it. Understand first.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+It's not what I want to do, it's what I already did. proof in my github account.
+
+This can be used to preserve evidence and truth. in many ways. Im just sharing it.
+u/Reasonable-Pace-4603 avatar
+Reasonable-Pace-4603
+•
+2h ago
+
+Preserve evidence, as in for Court?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+court, lawsuits, inventions, a LOT of things. developer's can't wrap their heads around that.
+u/Reasonable-Pace-4603 avatar
+Reasonable-Pace-4603
+•
+2h ago
+
+What is the problem that you are trying to solve with this github technique?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+I understand what you are asking better now. Think of all the poor people who get crushed by bigger and better entities. the ones that don't have lawyers or legal understanding. what they can do is document, to create a transparent system. anyone litigating them WILL clone that repo and use it. that's the gamechanger. their own enemies become their evidence. they can't say they didn't know, because they will be nosey to see what you post. every time
+u/Reasonable-Pace-4603 avatar
+Reasonable-Pace-4603
+•
+2h ago
+
+So your goal is to allow poor people to preserve evidence - ie reduce the cost associated with the preservation of evidence for judiciary purposes?
+
+Is the plan to use Github's current repo or to self-host a private repo?
+u/Cypher_Blue avatar
+Cypher_Blue
+•
+2h ago
+
+OP has an example of a complaint they have filed in this comment to give you an idea where they're coming from.
+u/Quiet_Net_4608 avatar
+Quiet_Net_4608
+•
+2h ago
+
+Good luck getting it accepted as evidence. It must be scientifically accepted
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+2h ago
+
+listen carefully. this CREATES evidence. it multiplies discovery
+u/Reasonable-Pace-4603 avatar
+Reasonable-Pace-4603
+•
+1h ago
+
+And was any of this ever admitted to court and resulted in a judgment in your favor?
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+1h ago
+
+screenshot this.
+u/MDCDF avatar
+MDCDF
+•
+1h ago
+
+Just asked AI like you said and it says not really practical idea. Also thin COC
+
+https://grok.com/share/c2hhcmQtMg%3D%3D_840a3550-840f-414f-a379-71fbfe00268d
+
+"You could use GitHub to store evidence under ISO 17025 if you implement robust controls to ensure confidentiality, integrity, and traceability, and validate the platform’s use. However, due to the sensitivity of laboratory evidence (especially in forensics), a specialized system designed for compliance with ISO 17025 is likely a safer and more practical choice."
+
+"However, it’s likely to face scrutiny due to GitHub’s nature as a general-purpose platform rather than a specialized evidence management system. This could be an issue in high-stakes cases, especially in digital forensics, where courts expect purpose-built systems designed for chain-of-custody and compliance. T"
+Top 6%
+Rank by size
+Created Sep 11, 2009
+Public
+Moderators
+Message Mods
+
+    u/Sinkigobopo avatar u/Sinkigobopo
+    u/Votearrows avatar u/Votearrows
+    u/aximil avatar u/aximil
+
+    u/Timmertsexyman
+    Tim
+
+View all moderators
+Reddit Rules Privacy Policy User Agreement Accessibility Reddit, Inc. © 2025. All rights reserved.
+
+
+
+Skip to main content
+An interesting new use case for Git and Github I *may* have discovered : r/github
+
+    
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Advertise on Reddit
+Create
+Create post
+Open inbox
+r/github icon
+Go to github
+r/github
+•
+6 hr. ago
+Own-Tension-3826
+An interesting new use case for Git and Github I *may* have discovered
+Discussion
+
+Has anyone used Git to document timestamped evidence? I think this could be a game changer for many.
+
+Example, every time you complete homework for your classes, add it to a git repo. Then you should have almost no issue getting wrong grades corrected. And soon as your teacher finds out some of their students do this, they will become a lot more careful about grading.
+
+Not saying I'm the first and only. But this should definitely be explored more.
+
+Edit: what I learned from this thread and reddit account is that devs truly live in their own world. And support computer theory + other dev opinions more than real evidence.
+
+Edit: even AI say's you're wrong. Ctrl +A and simply ask "Thoughts?" . You're welcome.
+Post Insights
+
+Only the post author and moderators can see this
+2.7K
+Total Views
+Total views.
+33%
+Upvote Rate
+Ratio of upvotes to downvotes.
+35
+Comments
+Total comments.
+4
+Total Shares
+Times your post was shared.
+Hourly views for first 48 hours
+Hourly data is collected for 48 hours and available for 45 days.
+0
+1k
+2k
+12:00 06:00 Jul 9 18:00 12:00 06:00 Jul 8 18:00
+Sort by:
+MalinowyChlopak
+•
+6h ago
+
+git commit --amend --date="Mon Jun 30 14:00 2025 +0100" -m "I swear I did it last Monday"
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+3h ago
+
+then you must explain why github's servers and all your clones say something different. It doesn't prevent dishonesty, but it catches it due to the transparent nature.
+u/guigouz avatar
+guigouz
+•
+6h ago
+
+Nothing prevents you (or anyone with access) to change the repo history, i.e. https://github.com/jayphelps/git-blame-someone-else
+Own-Tension-3826
+•
+6h ago
+
+u/guigouz avatar
+
+u/Own-Tension-3826 avatar
+
+u/guigouz avatar
+
+Lucas_F_A
+•
+6h ago
+
+The commits would have to be signed by the teacher or someone the teacher trusts
+
+The general concept you're looking for is timestamped digital signatures.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+3h ago
+
+What this is is a highly visible trail that creates many more trails. Honesty isn't forced(impossible anyway) but honesty is the best play. a blockchain doesn't solve the problems- easy storage and sharing of large amounts of media, forensic trail that github clones create. github has the massive platform with professional logging. Way more human-connectable than some new app or blockchain with just immutable sigs. No need to rely on the computers to prevent lies, it's better to be so transparent that people can't lie and expect to get away with it forever. If i went back to change my repo now, 1000 people would say "why are our copies different? he can't be trusted"
+mtak0x41
+•
+6h ago
+
+Git timestamps can easily be forged, and history can be rewritten.
+
+They might accept it, just as email headers are sometimes considered evidence (which are just as easy to forge), but on a technical level it’s shaky.
+Own-Tension-3826
+•
+6h ago
+
+u/Own-Tension-3826 avatar
+
+u/Own-Tension-3826 avatar
+
+Cake icon
+
+u/Own-Tension-3826 avatar
+
+Cake icon
+
+u/Own-Tension-3826 avatar
+
+u/Own-Tension-3826 avatar
+
+wugiewugiewugie
+•
+6h ago
+
+you may be able to use rfc 3161 to sign commit hashed with a trusted timestamp authority, example here https://github.com/Ocead/timestamping
+
+this is actually a great example where you can explore how to use cryptography to create trusted digital evidence and ways to verify authenticity and integrity - would be a good resume example project
+InnovativeBureaucrat
+•
+6h ago
+
+GitHub is indeed useful for this.
+
+Everyone’s responding about rewriting history but:
+
+    You can’t rewrite history for issues and comments, which is the best way to use it. Create an issue when assigned, comment when turned in.
+
+    You can’t easily rewrite commit history in a coherent way.
+
+Sure it’s technically possible to go in and rewrite an entire history but it most people who understand git would take the history of a repository as a legit timeline because it would be hard to fake without making mistakes.
+
+(I don’t know how to make this numbered list work in iOS)
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+5h ago
+
+exactly! every attempt at rewriting history = evidence of obstruction. Finally
+InnovativeBureaucrat
+•
+5h ago
+
+Yeah I use it at work to document shenanigans.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+5h ago
+
+username checks out!
+InnovativeBureaucrat
+•
+5h ago
+
+😂
+foogeeman
+Cake icon •
+5h ago
+
+How would commenting prove you submitted it?
+InnovativeBureaucrat
+•
+5h ago
+
+If I say “manager requested X” on a date, then I make subsequent comments on how the request was changed or what was submitted when, it helps keep track of situations where assignments shift.
+
+And to be honest there are times when it helps me stay honest, I forget things. (Usually it’s the other way but sometimes it keeps me honest).
+
+Edit: but you can attach documents to comments. And that’s pretty helpful because unless you’re really being fraudulent it’s a reasonable record.
+foogeeman
+Cake icon •
+5h ago
+
+But that's not the question, the question is how can it serve as proof that it was submitted? That's OP's objective, but I can comment without actually submitting
+InnovativeBureaucrat
+•
+5h ago
+
+If you commit the artifact and mention the issue in the commit “this closes #54” then it’s pretty good proof. I think most people would accept it.
+
+Of course if you’re a forger or liar then yeah it’s not e2e encrypted blockchain. But you know personal notes are admissible in court for example. There’s no perfect record (except the holy bible of course, which is literally true).
+foogeeman
+Cake icon •
+5h ago
+
+let's actually focus on the use case OP mentioned: A professor says you did not submit your assignment. You say but look at my commit timestamps and issues and comments! If I'm a professor I say f off, how do I know you're not a forger or a liar. I don't care about all that git, I only care about did I get the assignment on time.
+
+Every digital assignment submission system has time stamps anyway so also if I'm the professor I say says here on Canvas that you submitted it late, so again f off.
+
+This whole thing is stupid but you're taking it out of context and acting like the whole point isn't proving you're not a liar or a forger.
+InnovativeBureaucrat
+•
+5h ago
+
+If you think system A doesn't work (Canvas) then you use a different system to track your info. Github and Gitlab are great for that.
+
+If you're really arguing about it weeks or months later and you have a record on paper (literal paper) that says "Submitted on Canvas 7/3/2025 8:25 PM", that's better than nothing. If you have something in Github, that's better and harder to alter. If you put it in comments (by commit or by commenting) that's even more evidence.
+
+If it's a actual technical problem with the system or personal with the professor (maybe accidental), then your records will help so long as anyone's willing to look at them. If you're dealing with people who don't want to examine the evidence, then no records will be helpful.
+
+If you have a bunch of timestamps in a complex system with lots of checks and balances in place, I don't think the first thing a dean would say is "well maybe this student went in and created a fake diary after the fact to support their case". I think they'd look at things like "hmmm... we had 3 people or 300 people complain that their work was not accepted by this professor, or before a holiday, or on Friday's between 5 and 6PM.".
+
+Git wouldn't be a great choice to confirm financial transactions, but it's pretty dang good for anything less rigorous.
+u/Own-Tension-3826 avatar
+Own-Tension-3826
+•
+5h ago
+
+that's an example. see my history for my personal use. which is working. a first in history.
+
+even in that example you miss the point and real world use case entirely. a police report can be spoofed. A suspect sketch can be spoofed. but if it's done publicly and receives many copies, spoofs will get caught. and spoofers will know better than to spoof!
+
+all the devs here are thinking in programs. They forgot real world systems exist
+foogeeman
+Cake icon •
+4h ago
+
+I have no interest in your history. You gave one use case that doesn't make sense
+Top 2%
+Rank by size
+Created Oct 22, 2010
+Public
+Rules
+1
+Content must be on-topic
+2
+No low-effort posts
+3
+No coding or Git help requests
+4
+Promote your projects in the pinned megathread
+5
+Use appropriate flairs
+6
+Post must be in English
+7
+Be respectful and follow Reddiquette
+8
+Account suspension posts
+Moderators
+Message Mods
+
+    u/shabda avatar u/shabda
+    u/driftdrift avatar u/driftdrift
+    u/johndbritton avatar u/johndbritton
+
+u/Menox_
+Menox
+u/AutoModerator avatar u/AutoModerator
+
+    u/davorg
+    Dave Cross [he/him]
+    u/iJackr avatar u/iJackr
+
+View all moderators
+Reddit Rules Privacy Policy User Agreement Accessibility Reddit, Inc. © 2025. All rights reserved.
+
+
