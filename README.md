@@ -1,3 +1,5 @@
+Temporary Notice Jul 16 - Everyone makes mistakes, everyone can be forgiven. Please don't direct blame to each other. I don't resent anyone involved, especially not for just doing their job. 
+ 
  ## Personal Note
 
   I maintain this repository with joy and purpose. While complete, I am dedicated to keeping it maintained and accurate. I can't wait to hear thoughts from this amazing community. Email me at owner@caiatech.com for feedback or just to chat! If you enjoyed, please leave a star. Systems are beautiful, engineers are beautiful, America is Beautiful. Bless America.
