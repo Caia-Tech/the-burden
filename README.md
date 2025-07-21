@@ -1,4 +1,10 @@
-Temporary Notice Jul 16 - Everyone makes mistakes, everyone can be forgiven. Please don't direct blame to each other. I don't resent anyone involved, especially not for just doing their job. 
+Press Release-
+Department of Justice Coordinates Release of Files Related to Assassination of Martin Luther King Jr. 
+
+https://www.justice.gov/opa/pr/department-justice-coordinates-release-files-related-assassination-martin-luther-king-jr
+
+Monday, July 21, 2025
+-------------------------------------
  
  ## Personal Note
 
