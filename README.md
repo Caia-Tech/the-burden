@@ -1,8 +1,16 @@
+Uninspired. Considering dismissal. Technology is infinitely more important.
+
+Focusing on programming, check out gaia! 
+
 Caia Tech presents:
   
 └── gaia (Gate Artificial Intelligence Architecture) https://github.com/Caia-Tech/gaia
 
-Monday, July 21, 2025
+
+Also check out gitforensics and AFDP. Observability, Transparency, and Accountability all came before AI advancement! Take notes.
+
+Solo dev
+Marvin Tutt
 -------------------------------------
  
  ## Personal Note
