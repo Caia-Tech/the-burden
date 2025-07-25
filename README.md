@@ -1,5 +1,6 @@
 Caia Tech presents:
-  └── gaia (Gate Artificial Intelligence Architecture) https://github.com/Caia-Tech/gaia
+  
+└── gaia (Gate Artificial Intelligence Architecture) https://github.com/Caia-Tech/gaia
 
 Monday, July 21, 2025
 -------------------------------------
