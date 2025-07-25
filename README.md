@@ -12,6 +12,10 @@ Also check out gitforensics and AFDP. Observability, Transparency, and Accountab
 Solo dev
 Marvin Tutt
 -------------------------------------
+
+  1. GitForensics = Democratized TRUTH
+  2. AFDP = Democratized DETECTION
+  3. gaia = Democratized INTELLIGENCE
  
  ## Personal Note
 
