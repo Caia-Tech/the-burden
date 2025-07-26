@@ -1,3 +1,8 @@
+
+Update Jul26- Yea... those people are not worth my time. They should stop living in fear. I'm onto bigger and better things. Be honest, transparent, and grow.
+After systemic change we can move forward. Message to them - Stop making it worse. Current position - I'm thinking about it.
+Psalm 53 -----> Matthew 6:14-15
+
 Update Jul26- New Intelligence Engine just dropped. Novel software. https://github.com/Caia-Tech/genesis    By Marvin Tutt
 
 Uninspired. Considering dismissal. Technology is infinitely more important.
