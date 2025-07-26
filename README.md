@@ -1,3 +1,5 @@
+Update Jul26- New Intelligence Engine just dropped. Novel software. https://github.com/Caia-Tech/genesis    By Marvin Tutt
+
 Uninspired. Considering dismissal. Technology is infinitely more important.
 
 Focusing on programming, check out gaia! 
