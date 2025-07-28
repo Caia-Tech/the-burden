@@ -1,4 +1,5 @@
-Update Jul28- No longer a pro se litigant. Just CEO. Continuing research of temporal forensic networks and the intersection with human sociology (New area of study)
+Update Jul28- No longer a pro se litigant. Just CEO. Continuing research of temporal forensic networks and the intersection with human sociology (New area of study)-
+Raw notes and manifestos forwarded to the appropriate parties.
 
 Update Jul26- Yea... those people are not worth my time. They should stop living in fear. I'm onto bigger and better things. Be honest, transparent, and grow.
 After systemic change we can move forward. Message to them - Stop making it worse. Current position - I'm thinking about it.
@@ -10,7 +11,6 @@ Uninspired. Considering dismissal. Technology is infinitely more important.
 
   1. GitForensics = Democratized TRUTH
   2. AFDP = Democratized DETECTION
-  3. gaia = Democratized INTELLIGENCE
  
  ## Personal Note
 
