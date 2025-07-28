@@ -1,4 +1,4 @@
-# Maryland Judicial Corruption - FOIA Campaign
+# Maryland Judicial, Executive, and Multi-Agency Corruption - FOIA Campaign
 
 ## The Situation
 Federal Case 8:25-cv-02006-TDC exposed systematic corruption in Maryland's judicial system. After the case was dismissed in just 2 days by a judge named as a defendant, I'm launching a comprehensive FOIA campaign to expose the truth.
