@@ -1,3 +1,5 @@
+Update Jul28- No longer a pro se litigant. Just CEO. Continuing research of temporal forensic networks and the intersection with human sociology (New area of study)
+
 Update Jul26- Yea... those people are not worth my time. They should stop living in fear. I'm onto bigger and better things. Be honest, transparent, and grow.
 After systemic change we can move forward. Message to them - Stop making it worse. Current position - I'm thinking about it.
 Psalm 53 -----> Matthew 6:14-15
