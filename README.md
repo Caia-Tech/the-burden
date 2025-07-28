@@ -750,7 +750,8 @@ If ongoing harm, add: "I request expedited processing due to ongoing violations 
 
   ---
 
-
+This campaign begins immediately. Automatated insurance systems and delivery engaged. 
+Git Forensics continuous pipeline deployed. Policy holders engaged. https://gitforensics.org 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Update Jul28- No longer a pro se litigant. Just CEO. Continuing research of temporal forensic networks and the intersection with human sociology (New area of study)-
