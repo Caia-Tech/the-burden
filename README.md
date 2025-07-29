@@ -1,3 +1,6 @@
+Clarification for last commit message error - pointing out the hypocrisy: Maryland Demanding transparancy from the federal government while using extreme opacity against Marylanders, refused
+to address RICO pattern and civil rights abuse. Let that be clear.
+
 # Maryland Judicial, Executive, and Multi-Agency Corruption - FOIA Campaign
 
 ## The Situation
