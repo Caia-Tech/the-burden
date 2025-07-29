@@ -1,3 +1,10 @@
+Update:
+All fake evidence will be caught. Now requesting: 
+  - All FOIA requests submitted with "Marvin Tutt" as requester
+  - All FOIA requests mentioning my case numbers
+  - All FOIA requests submitted from your email(s)
+  - Processing logs showing WHO submitted WHAT
+
 Clarification for last commit message error - pointing out the hypocrisy: Maryland Demanding transparancy from the federal government while using extreme opacity against Marylanders, refused
 to address RICO pattern and civil rights abuse. Let that be clear.
 
