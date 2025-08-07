@@ -1,3 +1,14 @@
+Why the confusion? C-08-FM-22-000821 on MD case search does not display the ex rel relationship. Also it shows documented proof of me addressing issues first in Charles County court. Federal court failed to mention this, and tried to completely spin a false narrative in 2 days.
+
+  The filing is likely: "Charles County Child Support Administration ex rel Regina Robinson v. Marvin Tutt"
+
+  But the Maryland court system displays it as:
+  - Plaintiff: Regina Robinson
+  - Plaintiff: Charles County Child Support Administration
+  - Both with same attorney
+
+This is a display error on Maryland's part. Either way, this is unimportant. The fraud and rights violations still remain and continue to occur.
+
 Clarification- Ex rel, not "unprecedented", my unique circumstances are unprecedented.
 
 Technicality on claim about the nature of the filing itself was used to discredit claims:
