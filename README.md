@@ -1,3 +1,21 @@
+Update Aug 6- 
+
+  On July 8, 2025, Judge Chuang received my case and immediately issued his "normal and routine" Case Management Order - six pages of elaborate procedures for how my case would proceed through federal court. His order established pre-motion conferences, joint record requirements, and complex evidentiary procedures. He invested judicial resources creating a framework for litigation that would span months.
+
+  Yet according to Judge Chasanow's dismissal just 16 days later, my case never belonged in federal court at all. She declared it jurisdictionally barred from the moment I filed it. This creates an impossible paradox. If my case truly lacked federal jurisdiction - if it was as clearly deficient as Chasanow claims - why didn't Chuang dismiss it immediately? Federal judges don't issue elaborate case management orders for cases that obviously don't belong in their court. They dismiss them. Their actions suggest institutional panic.
+
+  Chasanow herself acknowledges this contradiction in her opinion: "as is his normal and routine practice, a case management order was issued the same date." But there's nothing normal about managing a case that lacks jurisdiction. You don't create detailed procedural roadmaps for cases you have no authority to hear.
+
+  The disparity exposes the truth. Chuang knew my case had merit - that's why he prepared to manage it through litigation. Chasanow knew it too - that's why she needed 10 pages and 35 citations to justify a dismissal that should have been obvious to Chuang two weeks earlier. The only thing that changed between July 8 and July 24 wasn't the law or the facts. It was the pressure.
+
+  The First Amendment doesn't vanish at the courthouse door. Punishing litigants for filing motions that expose judicial conflicts and demand constitutional compliance is illegal retaliation. The 48-hour turnaround after my protected activity speaks louder than any legal citation. The rule of law must apply.
+
+  The dismissal's main objective: Prevent discovery at all costs.
+
+  This message is protected by the first ammendment, and author is ready to modify or clarify based on responses from the accused. I stand ready to comply with state, local, and federal governments, as well as private company policies for services I utilize. Recognizing the serious nature of said claims, the author stands by to address any formal letters or requests. owner@caiatech.com
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 Update Aug 3, 2025- A copy of this repo has been added to gitlab.com: https://gitlab.com/owner51/the-burden
 
 Update:
