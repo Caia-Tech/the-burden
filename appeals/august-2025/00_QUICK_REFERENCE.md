@@ -1,3 +1,7 @@
+Important notice about these personal notes for surveillants who cloned my repos- Official filings will differ. Need time to ensure that filings are simple and respect the time of the
+4th circuit. Aiming not to reiterate merits, but to cite law and precedent correctly in order to describe the procedural errors that took place. Only seeking proper objective legal review
+of my case in its true entirety. After proper due process is applied and defenses are officially mounted, I humbly accept the court's discretion in a fair trial.
+
 # QUICK REFERENCE - APPEAL FILING
 
 ## YOUR DEADLINES
