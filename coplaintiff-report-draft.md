@@ -1,3 +1,38 @@
+notice-  Under Rule 12(b)(6), when a defendant moves to dismiss for "failure to state a claim," the court must accept all factual allegations in the complaint as true. 
+
+  this was my statement- 2. On June 17, 2022, a government agency did something that appears unprecedented in Maryland history: it filed as CO-PLAINTIFF with a 
+  private citizen, sharing the same attorney, to prosecute a father who was completing court-ordered education. This created a mathematical impossibility—he couldn't 
+  work full-time to pay support AND attend school full-time to complete his mandate. When he exposed their fraud, they didn't stop—they continued illegally punishing 
+  him and garnishing him weekly using phantom income from a job they mysteriously couldn't garnish when he actually worked there.
+
+  My factual allegations were NOT considered as true. A Social Services lawyer was the magistrate of my case against her own colleagues from that same year. THIS is what makes the 
+  ex-rel structure problematic! What is a sophisticated legal argument, is being suppressed as domestic relations. The allegation that my medicaid and SNAP were denied illegally was NOT
+  taken serious. The fact that Charles County court ignored reports of documented fraud and gave me false legal advice was not considered by district court. Nothing was considered, but my case was pre judged. 
+
+CSA and custodial were both plaintiffs sharing a lawyer, but courts focused on the structure (ex rel) and ignored everything else that followed. In normal cases, the structure is fine.
+In cases involving fraud, conflicting orders, and rights violations, such orders are meant to be rescinded. I rightfully petitioned this to the Court in question, and was given misinformation, also completely ignored. Charles County court transcripts hold proof of several violations.
+
+The courts completely dismiss the fact that I've been ordered to obtain a BACHELOR'S degree and work full time + pay or face prison. The structure is not the issue,
+the issue is the fraud and rights violations that it enabled. Both plaintiffs were made aware of the fraud (lying about custody and income) as well as rights violations (due process) issues.
+
+In order to do this, court had to violate due process and ignore its responsibility to respond to fraud allegations. This has nothing to do with domestic relations. To deny me for federal 
+benefits (Medicaid and SNAP), the state had to provide a reason. Their reason: saying I was employed, despite having irrefutable proof that I was unemployed. This is fraud to collect
+federal funds AND falsify information in federal systems.
+
+The contrast is stark and the error is clear. I will petition that the 4th review what I truly allege and not what people pretend I allege. When courts dismiss documented fraud as "domestic relations," it undermines faith in the system.
+
+All of these notes are for transparency, history, and public record. I believe in US systems and law. I respect the court of appeals, and sanctity of US legal procedure.
+
+My worry for this case, is that judicial error becomes so apparent and blatant that it causes problems for other Americans. I don't seek reform, I seek fair judicial review that fosters faith in our American systems.
+
+§ 1983 violations (government depriving rights under color of law)
+  - Due process violations (garnishing without valid basis)
+  - Equal protection violations (treating me differently than others)
+  - Federal program fraud (proven false data to deny benefits)
+
+Objectively review the original complaint and the memorandum side-by-side- two completely different cases are discussed, and the memorandum does not contain core facts. It quotes
+one statement and completely flips the context.
+
 Why the confusion? C-08-FM-22-000821 on MD case search does not display the ex rel relationship. Also it shows documented proof of me addressing issues first in Charles County court. Federal court failed to mention this, and tried to completely spin a false narrative in 2 days.
 
   The filing is likely: "Charles County Child Support Administration ex rel Regina Robinson v. Marvin Tutt"
