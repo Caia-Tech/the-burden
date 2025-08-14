@@ -1,3 +1,6 @@
+Update- Aug 14- No excuse for incendiary word choice.  This landscape is primed for dissention and misunderstanding. With that in mind, I'm invoking new standards for professionalism.
+Coordinated silence and passive investigation while designed to illicit certain behaviors, is also protection for myself and the system. I understand why this system is put in place and accept it. I fully intend to make things right.
+
 Update Aug 6- 
 
   On July 8, 2025, Judge Chuang received my case and immediately issued his "normal and routine" Case Management Order - six pages of elaborate procedures for how my case would proceed through federal court. His order established pre-motion conferences, joint record requirements, and complex evidentiary procedures. He invested judicial resources creating a framework for litigation that would span months.
