@@ -1,3 +1,14 @@
+unlimited resources != $292
+
+0 != $82,000
+
+frivolous != dangerous
+
+pigs walking on two legs?
+
+All animals equal but some more equal
+---------------------------------------------------------------------------------
+
 the burden falls on those who CAN speak, because most can't or won't.
 
 Update- Aug 14- No excuse for incendiary word choice.  This landscape is primed for dissention and misunderstanding. With that in mind, I'm invoking new standards for professionalism.
