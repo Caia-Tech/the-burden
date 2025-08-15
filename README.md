@@ -1,3 +1,6 @@
+Aug 15 2025- big things coming
+
+
 unlimited resources != $292
 
 0 != $82,000
