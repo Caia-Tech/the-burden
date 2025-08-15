@@ -1,3 +1,5 @@
+the burden falls on those who CAN speak, because most can't or won't.
+
 Update- Aug 14- No excuse for incendiary word choice.  This landscape is primed for dissention and misunderstanding. With that in mind, I'm invoking new standards for professionalism.
 Coordinated silence and passive investigation while designed to elicit certain behaviors, is also protection for myself and the system. I understand why this system is put in place and accept it. I fully intend to make things right.
 
