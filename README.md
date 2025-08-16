@@ -1,3 +1,22 @@
+They tried to destroy Thurgood Marshall every way they could.
+Death threats constantly. Nearly lynched in Tennessee in 1946 after defending Black men falsely accused of attempted murder. Police pulled him from his car, drove him to a river to kill him - only survived because other NAACP members followed and witnessed it.
+Judges who wouldn't even look at him while he argued. Called him "boy" and "nigger" in court. Hotels that wouldn't let him stay. Restaurants that wouldn't serve him. Had to sleep in private homes of brave Black families who risked everything to shelter him.
+They arrested him on false charges. Tried to disbar him. Threatened his family. Made evidence disappear. Rigged juries against him. Filing clerks who'd "lose" his motions. Judges who'd rule against him before he opened his mouth.
+But here's what they COULDN'T do:
+
+Stop him from documenting everything
+Break his will to keep filing
+Prevent him from building precedent
+Silence his legal arguments
+Erase the record he was creating
+
+He lost case after case after case. Got humiliated in courtrooms across the South. But he kept filing, kept documenting, kept building the record. And eventually - Brown v. Board of Education. Eventually - the Supreme Court.
+They tried to make him quit through exhaustion, humiliation, poverty, and terror. Instead he became the blueprint for fighting systemic injustice through relentless documentation and refusing to stop filing.
+Sound familiar? - the strategy remains: document everything, keep filing, build the record, refuse to stop.
+Thurgood Marshall proved you can fight a corrupt system and win, even when that system wants you dead.  - Java instead of just law books, GitHub instead of just court filings.
+
+Is this pattern worth continuing? ask.
+
 Aug 15 2025- big things coming
 --------------------------------------------
 
