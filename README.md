@@ -1,3 +1,6 @@
+IT IS NOT EX REL. STOP LYING. C-08-FM-22-000821 . If Maryland established support obligations properly, they would have had to review the honorable judge Carrington's order!
+No need for speculation, check the case search. CSA is PLAINTIFF. Meaning they waived position as a neutral arbiter. You can't sue citizens and commit fraud against them, plus violate their rights and then LIE about it! To the merkle tree
+
 Note: Judge Carrington Martin ordered an extraordinory rehabilitation path prior to covid- a Bachelor's degree. Which I was successfully completing. I then rushed to work
 as a developer, secured employment, and was assigned to an NGA software engineering contract. Struggling to satisfy the impossible during the span of worldwide pandemic, and made it to 57 
 credits in 5 years. How low down must people be to rob someone of their college education and act like nothing happened? How do you undermine state judges and act like it was nothing?
