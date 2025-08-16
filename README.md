@@ -1,3 +1,5 @@
+Why are you making me, an indigent father, waste time debunking conspiratorial orders? Now I must explain why 1+1=2 to the fourth circuit. Please do not waste their time!
+  
   Official Case Title: "Charles County Child Support Administration, et al. vs. Marvin Tutt"
   
   Chasanow's Claim: This is an "ex rel" case        |    (This is the same judge who is locking people up.) -Marvin
