@@ -1,7 +1,7 @@
   Official Case Title: "Charles County Child Support Administration, et al. vs. Marvin Tutt"
   
-  Chasanow's Claim: This is an "ex rel" case
-
+  Chasanow's Claim: This is an "ex rel" case        |    This is the same judge who is locking people up.
+  
   RIDICULOUS.
 
 No immunity exists for fraud. (referring to CSA.)
