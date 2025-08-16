@@ -1,4 +1,9 @@
-No immunity exists for fraud
+  Official Case Title: "Charles County Child Support Administration, et al. vs. Marvin Tutt"
+  Chasanow's Claim: This is an "ex rel" case
+
+  RIDICULOUS.
+
+No immunity exists for fraud. (referring to CSA.)
 
 IT IS NOT EX REL. STOP LYING. C-08-FM-22-000821 . If Maryland established support obligations properly, they would have had to review the honorable judge Carrington's order!
 No need for speculation, check the case search. CSA is PLAINTIFF. Meaning they waived position as a neutral arbiter. You can't sue citizens and commit fraud against them, plus violate their rights and then LIE about it! To the merkle tree
