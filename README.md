@@ -1,3 +1,6 @@
+Real worries Aug 16 2025- Martyrdom, retaliation, fame, career casualties. 
+
+
 They tried to destroy Thurgood Marshall every way they could.
 Death threats constantly. Nearly lynched in Tennessee in 1946 after defending Black men falsely accused of attempted murder. Police pulled him from his car, drove him to a river to kill him - only survived because other NAACP members followed and witnessed it.
 Judges who wouldn't even look at him while he argued. Called him "boy" and "nigger" in court. Hotels that wouldn't let him stay. Restaurants that wouldn't serve him. Had to sleep in private homes of brave Black families who risked everything to shelter him.
