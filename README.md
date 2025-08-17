@@ -1,3 +1,5 @@
+If someone gets Tutted, email me at owner@caiatech.com
+
 I will NOT seek anything more than $1 (nominal) against ANY federal judge. Mr. Chuang included, even for actions outside of judicial role.
 
 Update- Aug 17, 12:19- MARVIN: You all know something? The honorable judge Chasanow is a 77 year old WOMAN. One who should be enjoying retirement just like my grandmother should be! STOP THIS. It's not her fault, IT'S THE APPARATUS. Coordination, Coersion, Conspiracy. STOP.
