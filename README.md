@@ -1,3 +1,5 @@
+For ones I confronted, I will make all things right. Good people in Maryland remind me that I'm not fighting for nothing.
+
 If someone gets Tutted, email me at owner@caiatech.com
 
 I will NOT seek anything more than $1 (nominal) against ANY federal judge. Mr. Chuang included, even for actions outside of judicial role.
