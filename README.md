@@ -1,3 +1,27 @@
+But Jung warned about specific pitfalls that can derail this transformation
+24:50
+because the path of integrating superior perception contains specific dangers.
+24:55
+Therefore, Jung documented the most common ways individuals derail their own transformation process. Pitfall one, the
+25:04
+inflation trap. Jung wrote extensively about psychological inflation. When
+25:10
+individuals become identified with their superior function rather than integrating it consciously.
+25:16
+In two essays on analytical psychology, he warned, "The danger is that the ego
+25:22
+identifies with the archetype, leading to an inflation that cuts the individual off from human relationships.
+25:29
+Highly perceptive individuals often fall into what Jung called the profit complex, believing they must save
+25:36
+everyone from unconsciousness. This leads to preaching, judgment, and
+25:42
+eventual isolation." Jung observed, "The moment one believes oneself to be the bearer of absolute
+25:48
+truth, one has fallen into the trap of unconscious possession by the very forces one seeks to understand."
+
+https://www.youtube.com/watch?v=G2nrOrCB-Qg&t=1527s
+
 ## Personal Reflection - back from day off <M.T.> (hand-written)
 Aug 24 - thankful for this opportunity. For growth, for peace of mind, for hardening restraint and balancing the impossible. For navigating what breaks 99% of mankind. Every human makes mistakes, every human has their messy moments. Everyone has said stupid things. And I'm glad I did. You all get to see a real time account of societal systems and their effects on humans. That's why I will continue this fight, for our history. For the benefit of all parties. Stronger systems, better detection, AI driven discovery.
 </M.T.>
