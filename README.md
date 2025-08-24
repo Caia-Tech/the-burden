@@ -1,3 +1,7 @@
+## Personal Reflection - back from day off <M.T.> (hand-written)
+Aug 24 - thankful for this opportunity. For growth, for peace of mind, for hardening restraint and balancing the impossible. For navigating what breaks 99% of mankind. Every human makes mistakes, every human has their messy moments. Everyone has said stupid things. And I'm glad I did. You all get to see a real time account of societal systems and their effects on humans. That's why I will continue this fight, for our history. For the benefit of all parties. Stronger systems, better detection, AI driven discovery.
+</M.T.>
+
 For ones I confronted, I will make all things right. Good people in Maryland remind me that I'm not fighting for nothing.
 
 If someone gets Tutted, email me at owner@caiatech.com
