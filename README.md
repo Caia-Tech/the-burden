@@ -1,4 +1,4 @@
-y'all brought out the kitchen sink... every doctrine. Chief magistrate the ex chief judge. for something "moot"
+y'all brought out the kitchen sink... every doctrine. Chief magistrate, the ex chief judge. for something "moot"
 
 For the record, I have everything to win. I love life. I'm just temporarily indigent. And I will never stop standing up for myself.
 
