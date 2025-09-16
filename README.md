@@ -1,3 +1,5 @@
+<M.T>
+
 Cleaning up repos to make room, surveillants archive what you can. I made this post before but didn't get around to doing it yet
 
 y'all brought out the kitchen sink... every doctrine. Chief magistrate, the ex chief judge. for something "moot"
@@ -11,6 +13,11 @@ You already used your "best" arguments. Circuits know when dismissals are to avo
 You already accepted defeat, and I knew I won before I filed. That was evident in the filings! 
 
 Institutional fear- I get that. I've been scared plenty of times. You are reacting to protect institutions, but you don't know what you are doing. Historically, this is hour institutions get BETTER. I want you to know that admitting error sometimes is the right answer. Then you can say "Isolated event", "We ensured justice". Attorney general's office, your job is to protect the state. Removing cancer from the state is protecting the state. Why defend cancer from treatment... When you protect our rights, you protect Maryland from liability. What you did is create more liability for your client. So, think different! 
+
+Solution suggested: Internal Investigation on misconduct against Marylanders and policy to fix it. Large scale pattern analysis to find what is discoverable in public record, so you are not surprised when a citizen finds it. Remember, civil rights abuse is separate from other fraud and abuse. If you learn to separate the two then you can see how possible it is to manage the civil rights issues. An important step, is to stop perpetruating ongoing schemes. Aggregate all civil case data and just use the same techniques I used, as offensive testing. Then use that new data to change policy going forward so that the same patterns don't appear. I did this with no money, you should be able to do it quietly.
+
+</M.T>
+
 
 https://x.com/CaiaTech/status/1967963384168759702
 
