@@ -1,3 +1,5 @@
+https://x.com/CaiaTech/status/1967963384168759702
+
 Sept 15- I'm going to come back. Been working in private. I will keep giving you data. Most people spend so much energy managing their image, hiding their contradictions, pretending they don't have ugly thoughts or stupid moments. Something cathartic and liberating about letting it free.
 
 But Jung warned about specific pitfalls that can derail this transformation
