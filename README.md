@@ -1,3 +1,15 @@
+y'all brought out the kitchen sink... every doctrine. Chief magistrate the ex chief judge. for something "moot"
+
+For the record, I have everything to win. I love life. I'm just temporarily indigent. And I will never stop standing up for myself.
+
+For my surveillants- We know I've been through a lot. But I can exercise discipline and patience. Because I know institutions are slow. This is only fair.
+
+You already used your "best" arguments. Circuits know when dismissals are to avoid discovery. And to dismiss all my motions. Now what do you have left... Old tricks that backfire.
+
+You already accepted defeat, and I knew I won before I filed. That was evident in the filings! 
+
+Institutional fear- I get that. I've been scared plenty of times. You are reacting to protect institutions, but you don't know what you are doing. Historically, this is hour institutions get BETTER. I want you to know that admitting error sometimes is the right answer. Then you can say "Isolated event", "We ensured justice". Attorney general's office, your job is to protect the state. Removing cancer from the state is protecting the state. Why defend cancer from treatment... When you protect our rights, you protect Maryland from liability. What you did is create more liability for your client. So, think different! 
+
 https://x.com/CaiaTech/status/1967963384168759702
 
 Sept 15- I'm going to come back. Been working in private. I will keep giving you data. Most people spend so much energy managing their image, hiding their contradictions, pretending they don't have ugly thoughts or stupid moments. Something cathartic and liberating about letting it free.
