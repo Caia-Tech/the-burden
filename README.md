@@ -1,3 +1,5 @@
+Cleaning up repos to make room, surveillants archive what you can. I made this post before but didn't get around to doing it yet
+
 y'all brought out the kitchen sink... every doctrine. Chief magistrate, the ex chief judge. for something "moot"
 
 For the record, I have everything to win. I love life. I'm just temporarily indigent. And I will never stop standing up for myself.
