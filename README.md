@@ -1,4 +1,4 @@
-https://imgur.com/a/SL15yBm
+![Discovery Dodgers Team Logo](https://i.imgur.com/Dw3A5y1.png)
 
 <M.T>
 
