@@ -1,3 +1,5 @@
+I just read about how attorneys view and handle pro se litigants, on r/lawyertalk. You are some real narcissists. It's a game to you but try it against Truth, Logic, Humor... PRO SE LEVEL DEFCON 1
+
 ![Discovery Dodgers Team Logo](https://i.imgur.com/Dw3A5y1.png)
 
 <M.T>
