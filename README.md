@@ -1,3 +1,5 @@
+They wanna book us and start us off on wrong page
+
 https://dcgogo.org/ , made by marvin tutt
 
 黒浪人・無双（くろろうにん・むそう）
