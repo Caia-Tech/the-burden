@@ -1,5 +1,7 @@
 黒浪人・無双（くろろうにん・むそう）
 
+during the samurai's rest, he couldn't help but recognize another great official. A great official who brought honor to the institution. Samurai never forgets. Understanding ethics, the warrior will commemorate her properly. And protect her honor.
+
 September 19 -M.T, the lost Ronin kept wandering. Looking for a challenge. A samurai standoff, if you will. Instead of a direct conflict, the great official challenged M.T. using sabotage, confusion, and secrets. After bringing great shame to the institution of Harvard, he fled from the Ronin. He went into hiding. But the Ronin has GPS. next is THE GREAT SAMURAI DISTRICT SHOWDOWN
 
 
