@@ -1,3 +1,5 @@
+https://dcgogo.org/ , made by marvin tutt
+
 黒浪人・無双（くろろうにん・むそう）
 
 and the lower officials... I hope you understand. I must preserve my rights. I begged for them, I begged for my life, but i just want to resolve and forgive. It's not personal to you, and I hope it gets solved quietly.
