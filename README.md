@@ -1,3 +1,6 @@
+September 19 -M.T, the lost Ronin kept wandering. Looking for a challenge. A samurai standoff, if you will. Instead of a direct conflict, the great official challenged M.T. using sabotage, confusion, and secrets. After bringing great shame to the institution of Harvard, he fled from the Ronin. He went into hiding. But the Ronin has GPS. next is THE GREAT SAMURAI DISTRICT SHOWDOWN
+
+
 I just read about how attorneys view and handle pro se litigants, on r/lawyertalk. You are some real narcissists. It's a game to you but try it against Truth, Logic, Humor... PRO SE LEVEL DEFCON 1
 
 ![Discovery Dodgers Team Logo](https://i.imgur.com/Dw3A5y1.png)
