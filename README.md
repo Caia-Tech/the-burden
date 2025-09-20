@@ -1,3 +1,6 @@
+Sept 20 - I do this so people can see what it looks like. Institutional gaslighting, sabotage, impossible court orders, how / how-not to respond. I'm working on tools we need. I'm broke, I'm tired, but I will keep working on these tools. Some will take months some will take years, but I'm bringing what we need
+
+
 They wanna book us and start us off on wrong page
 
 https://dcgogo.org/ , made by marvin tutt
