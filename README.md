@@ -1,3 +1,7 @@
+<M.T.>
+If you are ever being institutionally watched, or file pro se against people in power, you must swim with the current. Your rage benefits them if not channeled properly. Coordination is expensive for them to maintain and it has critical weak points. If a machine is being used against you, use it to your advantage. Document, post, don't give up. If resources get allocated to monitor and control you, they leave discoverable trails. Automated monitoring means you literally can't be ignored. They won't engage, but they won't ignore either. read my guide at gitforensics.org, it shows you how to proliferate evidence that you can discover later through FOIA/PIA/Discovery. The thing is, every agency has git. Every agency has software infrastructure, every agency has AI, almost every agency has gossip, so plug into those systems. I'm writing new guides on this but it may take a while give me some time.
+
+
 Sept 20 - I do this so people can see what it looks like. Institutional gaslighting, sabotage, impossible court orders, how / how-not to respond. I'm working on tools we need. I'm broke, I'm tired, but I will keep working on these tools. Some will take months some will take years, but I'm bringing what we need
 
 
@@ -15,6 +19,8 @@ September 19 -M.T, the lost Ronin kept wandering. Looking for a challenge. A sam
 
 
 I just read about how attorneys view and handle pro se litigants, on r/lawyertalk. You are some real narcissists. It's a game to you but try it against Truth, Logic, Humor... PRO SE LEVEL DEFCON 1
+</M.T.>
+
 
 ![Discovery Dodgers Team Logo](https://i.imgur.com/Dw3A5y1.png)
 
