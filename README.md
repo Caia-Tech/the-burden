@@ -1,1 +1,1 @@
-keepin' it civil. For now
+Imagine the government teams up with a private citizen to sue you, shares the same lawyer as your private opponent, a government insider is the preside magistrate, and then that same government machine collects incentives and enforces the result. Even if everyone is honest, the roles are mixed in a way that defeats neutrality. Courts are supposed to keep plaintiff, judge, and enforcer separate. In such a machine, defendants are defeated from the start. And have no idea what is happening.
