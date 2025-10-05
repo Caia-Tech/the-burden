@@ -16,6 +16,8 @@ Not surprised... Whatever man. Entire court is conflicted. You have DSS counsel 
 
 Most insidious, biased, arrogant system.
 
+Oct 5- ^ actually I shouldn't have said that. It could have been a coincidence, or decided beforehand. Either way, still a manufactured hearing to support "lower abstention". Not to say Greer or West are conflicted. Only Khoury. 
+
 All i wanted was a normal life. You only want to keep our people in the system. When one of us complies, nothing changes. You make it impossible for us all. I'm done trying. It's not a court of law it's a complete joke. it's more of a sorority than a court. 1st amendment.
 
 DO NOT escalate. My 1st, 8th, and 14th amendment rights were violated. See chuang and chasanow's orders here or in pacer. There is no question about this. When you put someone in an impossible situation and violate their basic rights and dignity what should you expect? 0 justice, 0 impartiality. Just risk management. NOT A COURT
