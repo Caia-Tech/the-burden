@@ -1,6 +1,9 @@
+Oct 5 - I don't know what the hearing on October 15th is about. I do know the state court laughed and ignored me. Then district court quashed and buried. Now suddenly a family court case is resurrected. I'm not stepping in to relitigate a federal case. I'm answering whatever reasonable questions you have and leaving quietly.  
+
+They set us up for failure and when you exceed expectations they violate you. They KNOW it's physically impossible. Like Chasanow said, it's "routine".
+
+---
 Not ghosts—just actors who leave trails when you force them.
-
-
 
 Court Scheduling Information
 Event Type 	Event Date 	Event Time 	Judge 	Court Location 	Court Room 	Result
