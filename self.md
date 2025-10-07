@@ -44,7 +44,7 @@ Effects of first amendment violations / blocking access to courts https://github
 
 Please read this^ the disservice you are doing to use when you try to quash and bury civil rights isn't just horrible for us, it's catastrophic to institutions. social media? tiktok? I could have been campaigning there instead... i could have been emailing and calling places daily... Or word can get out "on its own". Why break the law and create so much reversible error? Why is your policy to dismiss even when meritous? especially against someone who is principled and hasn't exhausted every option...
 
-This is why I'm dissapointed in the AG. Zero skill. zero contemplation. just POLICY. Then anybody can do it! If you job is risk analysis and you multiply risk, you deserve negative salary.
+This is why I'm dissapointed in the AG. Zero skill. zero contemplation. just POLICY. Then anybody can do it! If your job is risk analysis and you multiply risk, you deserve negative salary.
 
 I get it now. They aren't top practitioners of law. law doesn't matter. just connections and power. I spend hours reading law just to get laughed at by the law.
 
@@ -55,3 +55,12 @@ America, I keep feeling bad about the way I disrespected people. Raging at congr
 America, y'all don't even know. When you file radioactive papers in federal court, before you know it it's ike you suddenly get pulled out from underwater but never knew you were underwater your whole life. It's just eerie QUIET. And when your case gets so big and complex that nobody else can or will comprehend... it's just rough.
 
 I thought Spring Boot + JPA + Hibernate - that whole stack was the hardest thing I ever had to do. NOPE. It's pro se litigation. I had to learn both under constant threat. But litigation- different beast.
+
+
+
+------
+
+AMERICA (gov) I am 3.5 months in! 3.5 months talking to you alone, with [almost] no response 💀. Procedure, I know. I don't know what to do, what not to do, but I'm trying.
+
+STATE (gov) I am telling the truth. I can narrow my ask. I can forgive a lot of people. I think if you analyze my footprint you know I'm telling the truth. But im indigent! and indigent! So i can SEE why you might not believe me! But that's also... not my problem? BUT I AM TRYING
+
