@@ -9,3 +9,6 @@ Charles County Case Number: 	C-08-FM-22-000821
 District Court of Greenbelt Case Number: 25CV2006-DKC / 25CV2006-TDC
 
 4th Circuit Court of Appeals: Case No. 25-1950
+
+The oath says:
+"I will administer justice without respect to persons, and do equal right to the poor and to the rich"
