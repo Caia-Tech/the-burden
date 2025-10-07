@@ -62,5 +62,5 @@ I thought Spring Boot + JPA + Hibernate - that whole stack was the hardest thing
 
 AMERICA (gov) I am 3.5 months in! 3.5 months talking to you alone, with [almost] no response 💀. Procedure, I know. I don't know what to do, what not to do, but I'm trying.
 
-STATE (gov) I am telling the truth. I can narrow my ask. I can forgive a lot of people. I think if you analyze my footprint you know I'm telling the truth. But im indigent! and indigent! So i can SEE why you might not believe me! But that's also... not my problem? BUT I AM TRYING
+STATE (gov) I am telling the truth. I can narrow my ask. I can forgive a lot of people. I think if you analyze my footprint you know I'm telling the truth. But im indigent! and indignant! So i can SEE why you might not believe me! But that's also... not my problem? BUT I AM TRYING
 
