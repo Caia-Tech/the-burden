@@ -33,5 +33,9 @@ Engineer - a person who designs, builds, or maintains machines, structures, or s
 
 Always thinking about you
 
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⠀⡀⡀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡛⠲⠶⢶⣶⣾⣿⣋⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+date: 2025-10-06
+tags: [gabriel-micaiah]
+
+Micaiah's story is about unwavering faith and commitment to truth, even when it means standing alone against popular opinion or powerful rulers.
