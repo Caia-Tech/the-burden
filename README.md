@@ -1,3 +1,10 @@
+Yea i laugh and joke but at the end of the day none of this is funny. Oct 15 - violated in state court. let the record speak for itself. y'all know my state case. Greer presided today. REVIEW IT OBJECTIVELY. not over-ly documenting it here. he is a fragment not worth my time.
+
+
+
+
+
+
 This repository documents civil rights abuse from state and federal actors, alleged by Marvin Tutt.
 
 https://gitforensics.org is a social transparency guide for evidence proliferation in the AI/digital age. Designed to help pro se litigants and supplement FOIA requests
