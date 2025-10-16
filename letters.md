@@ -39,3 +39,10 @@ date: 2025-10-06
 tags: [gabriel-micaiah]
 
 Micaiah's story is about unwavering faith and commitment to truth, even when it means standing alone against popular opinion or powerful rulers.
+
+
+
+-------------------------
+Oct 15
+
+I will always fight for you no matter what. Any time, any place
