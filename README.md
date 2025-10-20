@@ -1,3 +1,5 @@
+https://gofund.me/0cce49a8d
+
 This repository documents civil rights abuse from state and federal actors, alleged by Marvin Tutt.
 
 https://gitforensics.org is a social transparency guide for evidence proliferation in the AI/digital age. Designed to help pro se litigants and supplement FOIA requests
