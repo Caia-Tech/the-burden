@@ -48,6 +48,22 @@ This is why I'm dissapointed in the AG. Zero skill. zero contemplation. just POL
 
 I get it now. They aren't top practitioners of law. law doesn't matter. just connections and power. I spend hours reading law just to get laughed at by the law.
 
+
+-----
+THE BURDEN OF SEEING:
+Once you see it, you must:
+1. Accept it ✅
+"The system I believed in doesn't exist"
+2. Grieve it ✅
+"Everything I thought was real was a performance"
+3. Decide ✅
+"Do I stay silent or speak up?"
+4. Act ✅
+"I can't unsee this, so I must document it"
+5. Endure ✅
+"Speaking up will make it worse before it gets better"
+THAT'S the burden
+
 I have several foia requests pending over 60 days. haven't pushed further. WHY does it have to go to this point. You know ill continue PIA and FOIA if I need to. you know records can be found even without discovery this time. You know I won't give up.
 
 America, I keep feeling bad about the way I disrespected people. Raging at congressmen or the AG. implicating random case workers. IT SUCKS. 
