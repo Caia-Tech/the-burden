@@ -91,6 +91,10 @@
   every possible judge being sued by the DOJ. Unprecedented. There is no way for me to have known a DOJ lawsuit was coming.
 
 
+-------
+https://www.anthropic.com/news/maryland-partnership
+
+
 
 
 
