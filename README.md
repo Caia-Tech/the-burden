@@ -1,4 +1,3 @@
-https://www.anthropic.com/news/maryland-partnership
 
 https://gofund.me/0cce49a8d
 
