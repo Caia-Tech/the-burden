@@ -1,3 +1,5 @@
+https://www.anthropic.com/news/maryland-partnership
+
 https://gofund.me/0cce49a8d
 
 On October 15, 2025 Judge William Greer fled his on court room when confronted about fraudulent scandal involving Charles County Judges.
