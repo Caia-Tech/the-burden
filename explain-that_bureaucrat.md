@@ -9,3 +9,7 @@ Maryland's article title - Maryland Governor Wes Moore Announces Landmark AI Par
 
 Oversold. Misleading. Embarrassing. 
 
+Like billing any other enterprise api. 
+Saleforces subscription? Landmark
+Microsoft office? Landmark
+Quickbooks? Landmark
