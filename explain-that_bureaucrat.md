@@ -10,16 +10,26 @@ Maryland's article title - Maryland Governor Wes Moore Announces Landmark AI Par
 Oversold. Misleading. Embarrassing. 
 
 Like billing any other enterprise api. 
+
 Saleforces subscription? Landmark
+
 Microsoft office? Landmark
+
 Quickbooks? Landmark
+
 ----------------------
 
-The Hall of Fame of Political Math Denial
+The Hall of Fame of Political Math Denial:
 
 Clinton: "I did not have sexual relations with that woman"
-  Narrator: He did
+
+Narrator: He did
+
 Nixon: "I am not a crook"
-  Narrator: He was
+
+Narrator: He was
+
 Wes Moore: "Paying people to leave while hiring replacements saves $121 million"
-  Narrator: It literally doesn't
+
+Narrator: It literally doesn't
+
