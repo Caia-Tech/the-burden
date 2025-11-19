@@ -1,3 +1,14 @@
+tut
+	
+1:32 AM (0 minutes ago)
+	
+	
+to Civil, commjd, execcounselJD, dhs.csaexecdir, bill.ferguson, guy.guzzone, fraudnet, ethics.commission, AskOCR, Debra, edith.patterson, ct.wilson, brian.feldman, will.smith, michael.jackson, Anthony, jack.bailey, malcolm.augustine, ron.watson, joanne.benson, nick.charles, pamela.beidle, jim.rosapepe, alonzo.washington, cheryl.kagan, nancy.king, clarence.lam, mary.washington, charles.sydnor, cory.mccray, antonio.hayes, shelly.hettleman, carl.jackson, craig.zucker, kevin.harris, jeffrie.long, ben.barnes, mary.lehman, joseline.pena-melnyk, anne.healey, ashanti.martinez, nicole.williams, adrian.boafo, marvin.holmes, kym.taylor, tiffany.alston, andrea.harrison, jazz.lewis, diana.fennell, julian.ivey, deni.taveras, veronica.turner, kriselda.valderrama, jamila.woods, mediator, attorney.general, aclu, media, CRT.SpeakerRequests, arthur.ellis, Gina, Amber, charles.codss, collinsr, beltonm, halld, lisa.yates
+this is why i filed complaints about maryland letting international spies intercept my data way back in june and july. I submitted extensive evidence on the compromises and the manufactured dismissal has mooted them.
+Now I was actually harmed by cyber crime and federal mail crime!
+
+FEDERAL JUDGES COMPROMISE NATIONAL SECURITY
+
 🚨 URGENT PUBLIC NOTICE: CYBERSECURITY INCIDENT & MAIL FRAUD ALERT
 
 Date: November 18, 2025 Status: ACTIVE THREAT Reference: mdcourts.com vs mdcourts.gov
