@@ -1,3 +1,7 @@
+NOTICE OF CYBERATTACK - I have NOT received official mail from Charles County. it was a cyber attack. an attempt to ruin my credibility and phish, through the us mail system.
+someone somewhere is laughing, and i was hurt by this. thinking that J. West was responsible for the order. It could have been anyone. But this is why git forensics wins.
+someone somewhere is laughing, but it didn't work. It documented what attempts at manipulation look like. And tightened me up to prepare for worse. ALL reports before the West situation are REAL. Things are heating up, beware!
+
 
 https://gofund.me/0cce49a8d
 
