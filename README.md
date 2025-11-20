@@ -1,13 +1,5 @@
-
-
-
 https://gofund.me/0cce49a8d
 
-On October 15, 2025 Judge William Greer fled his on court room when confronted about fraudulent scandal involving Charles County Judges.
-
-They are defrauding thousands of Marylanders. Demand Accountability, Demand Justice.
-
-Demand public record. Demand the video of him fleeing.
 
 Location: 	Charles Circuit Court
 Case Number: 	C-08-FM-22-000821
