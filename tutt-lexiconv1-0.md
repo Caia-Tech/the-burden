@@ -19,3 +19,6 @@
 **“Mathematical proof.”**  
 “This isn’t a rant, it’s a derivation.”  
 → Puts your filings in the frame of logic, not “emotion.”
+
+
+IFP = I'M ******* POOR
