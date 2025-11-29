@@ -88,3 +88,11 @@ STATE (gov) I am telling the truth. I can narrow my ask. I can forgive a lot of 
 🥱 when they can't beat you they run away. Either way, I'm still being myself. Still doing what got me this far. Humbly ready to forgive and help each other grow.
 They don't hate me, they hate themselves and what I represent. Catch up
 
+
+--------
+
+
+Nov 29 2025
+
+I have to stand up for the people, no matter what. I won't let greed, fear, or fury get in the way.
+
