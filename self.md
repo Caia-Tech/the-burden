@@ -80,3 +80,11 @@ AMERICA (gov) I am 3.5 months in! 3.5 months talking to you alone, with [almost]
 
 STATE (gov) I am telling the truth. I can narrow my ask. I can forgive a lot of people. I think if you analyze my footprint you know I'm telling the truth. But im indigent! and indignant! So i can SEE why you might not believe me! But that's also... not my problem? BUT I AM TRYING
 
+
+
+
+--------
+
+🥱 when they can't beat you they run away. Either way, I'm still being myself. Still doing what got me this far. Humbly ready to forgive and help each other grow.
+They don't hate me, they hate themselves and what I represent. Catch up
+
