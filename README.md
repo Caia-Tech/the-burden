@@ -1,4 +1,6 @@
-https://gofund.me/0cce49a8d
+Now campaigning for delegate in District 26! Independent. https://marvintutt.com
+
+https://gofund.me/0cce49a8d (personal)
 
 
 Location: 	Charles Circuit Court
