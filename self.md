@@ -96,3 +96,7 @@ Nov 29 2025
 
 I have to stand up for the people, no matter what. I won't let greed, fear, or fury get in the way.
 
+
+--------
+
+son gotta eat
