@@ -24,3 +24,8 @@
 IFP = I'M ******* POOR
 
 Cathartic Reckoning - Healing Through Accountability
+
+
+Absolvement, Absolvemented - Like dissolved, but viscerally. (Don't ask me questions. I'm the lexicographer)
+
+Word created by Marvin D. Tutt - Dec 8, 2025
