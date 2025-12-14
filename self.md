@@ -100,3 +100,7 @@ I have to stand up for the people, no matter what. I won't let greed, fear, or f
 --------
 
 son gotta eat
+
+--------
+
+I'm tryna take care of my people
